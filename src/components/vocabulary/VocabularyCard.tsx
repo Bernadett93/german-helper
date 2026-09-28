@@ -1,4 +1,5 @@
-import { CalendarDays, Trash2 } from 'lucide-react'
+import { CalendarDays, Pencil, Trash2 } from 'lucide-react'
+import { Link } from 'react-router-dom'
 import type { Vocabulary } from '../../types/vocabulary'
 import { formatDate } from '../../lib/date'
 import { WORD_TYPE_META } from '../../lib/wordTypes'
@@ -26,16 +27,25 @@ export function VocabularyCard({ word, onDelete }: VocabularyCardProps) {
           )}
           <p className="text-sm text-slate-500">{word.hungarianMeaning}</p>
         </div>
-        {onDelete && (
-          <button
-            type="button"
-            onClick={() => onDelete(word.id)}
-            aria-label={`Delete ${word.germanWord}`}
-            className="rounded-lg p-2 text-slate-400 opacity-0 transition group-hover:opacity-100 hover:bg-rose-50 hover:text-rose-600 focus:opacity-100"
+        <div className="flex shrink-0 gap-1 opacity-0 transition group-hover:opacity-100 focus-within:opacity-100">
+          <Link
+            to={`/vocabulary/${word.id}/edit`}
+            aria-label={`Edit ${word.germanWord}`}
+            className="rounded-lg p-2 text-slate-400 hover:bg-indigo-50 hover:text-indigo-600"
           >
-            <Trash2 className="h-4 w-4" />
-          </button>
-        )}
+            <Pencil className="h-4 w-4" />
+          </Link>
+          {onDelete && (
+            <button
+              type="button"
+              onClick={() => onDelete(word.id)}
+              aria-label={`Delete ${word.germanWord}`}
+              className="rounded-lg p-2 text-slate-400 hover:bg-rose-50 hover:text-rose-600"
+            >
+              <Trash2 className="h-4 w-4" />
+            </button>
+          )}
+        </div>
       </div>
       {word.exampleSentence && (
         <p className="mt-4 border-l-2 border-indigo-200 pl-3 text-sm italic text-slate-600">

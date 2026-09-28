@@ -31,7 +31,7 @@ export function AddVocabularyPage() {
         </div>
       )}
 
-      <VocabularyForm onSubmit={(word) => setLastAdded(addWord(word))} />
+      <VocabularyForm onSubmit={async (word) => setLastAdded(await addWord(word))} />
     </div>
   )
 }

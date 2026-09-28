@@ -4,7 +4,11 @@ import { WORD_TYPE_META } from '../../lib/wordTypes'
 import { ARTICLES, WORD_TYPES, type Article, type NewVocabulary, type WordType } from '../../types/vocabulary'
 
 interface VocabularyFormProps {
-  onSubmit: (word: NewVocabulary) => void
+  onSubmit: (word: NewVocabulary) => void | Promise<void>
+  /** When provided, the form is pre-filled and not reset after submitting (edit mode). */
+  initialValue?: NewVocabulary
+  submitLabel?: string
+  onCancel?: () => void
 }
 
 interface FormState {
@@ -27,6 +31,11 @@ const createEmptyForm = (): FormState => ({
   date: todayISO(),
 })
 
+const toFormState = (word: NewVocabulary): FormState => ({
+  ...word,
+  article: word.article ?? 'der',
+})
+
 const ARTICLE_ACTIVE: Record<Article, string> = {
   der: 'border-blue-500 bg-blue-50 text-blue-700',
   die: 'border-rose-500 bg-rose-50 text-rose-700',
@@ -41,16 +50,25 @@ const optionClass = (active: boolean, activeClass: string) =>
     active ? activeClass : 'border-slate-200 text-slate-500 hover:border-slate-300'
   }`
 
-export function VocabularyForm({ onSubmit }: VocabularyFormProps) {
-  const [form, setForm] = useState<FormState>(createEmptyForm)
+export function VocabularyForm({
+  onSubmit,
+  initialValue,
+  submitLabel = 'Save word',
+  onCancel,
+}: VocabularyFormProps) {
+  const [form, setForm] = useState<FormState>(() =>
+    initialValue ? toFormState(initialValue) : createEmptyForm(),
+  )
   const [error, setError] = useState<string | null>(null)
+  const [saving, setSaving] = useState(false)
   const meta = WORD_TYPE_META[form.wordType]
 
   const update = <K extends keyof FormState>(key: K, value: FormState[K]) =>
     setForm((prev) => ({ ...prev, [key]: value }))
 
-  const handleSubmit = (e: FormEvent<HTMLFormElement>) => {
+  const handleSubmit = async (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault()
+    if (saving) return
     const word: NewVocabulary = {
       wordType: form.wordType,
       article: form.wordType === 'noun' ? form.article : undefined,
@@ -68,10 +86,19 @@ export function VocabularyForm({ onSubmit }: VocabularyFormProps) {
       setError('Please choose a valid lesson date.')
       return
     }
-    onSubmit(word)
+    setError(null)
+    setSaving(true)
+    try {
+      await onSubmit(word)
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'Saving failed.')
+      return
+    } finally {
+      setSaving(false)
+    }
+    if (initialValue) return
     // Keep type, article and date so several words from the same lesson can be entered quickly.
     setForm({ ...createEmptyForm(), wordType: form.wordType, article: form.article, date: form.date })
-    setError(null)
   }
 
   return (
@@ -197,12 +224,22 @@ export function VocabularyForm({ onSubmit }: VocabularyFormProps) {
         </p>
       )}
 
-      <div className="flex justify-end">
+      <div className="flex justify-end gap-3">
+        {onCancel && (
+          <button
+            type="button"
+            onClick={onCancel}
+            className="rounded-xl border border-slate-200 bg-white px-5 py-2.5 text-sm font-semibold text-slate-700 shadow-sm transition hover:bg-slate-50"
+          >
+            Cancel
+          </button>
+        )}
         <button
           type="submit"
-          className="rounded-xl bg-indigo-600 px-5 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:bg-indigo-700 focus:outline-none focus:ring-4 focus:ring-indigo-200"
+          disabled={saving}
+          className="rounded-xl bg-indigo-600 px-5 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:bg-indigo-700 focus:outline-none focus:ring-4 focus:ring-indigo-200 disabled:cursor-wait disabled:opacity-60"
         >
-          Save word
+          {saving ? 'Saving…' : submitLabel}
         </button>
       </div>
     </form>

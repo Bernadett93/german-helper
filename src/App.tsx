@@ -3,6 +3,7 @@ import { Layout } from './components/layout/Layout'
 import { VocabularyProvider } from './context/VocabularyProvider'
 import { AddVocabularyPage } from './pages/AddVocabularyPage'
 import { DashboardPage } from './pages/DashboardPage'
+import { EditVocabularyPage } from './pages/EditVocabularyPage'
 import { VocabularyPage } from './pages/VocabularyPage'
 
 export default function App() {
@@ -14,6 +15,7 @@ export default function App() {
             <Route index element={<DashboardPage />} />
             <Route path="vocabulary" element={<VocabularyPage />} />
             <Route path="vocabulary/new" element={<AddVocabularyPage />} />
+            <Route path="vocabulary/:id/edit" element={<EditVocabularyPage />} />
             <Route path="*" element={<Navigate to="/" replace />} />
           </Route>
         </Routes>

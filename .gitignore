@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Temp file written by the vocabulary server during saves
+data/*.tmp

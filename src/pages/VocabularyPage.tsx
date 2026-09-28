@@ -33,6 +33,16 @@ export function VocabularyPage() {
   const [query, setQuery] = useState('')
   const [filter, setFilter] = useState<WordFilter>('all')
   const [lesson, setLesson] = useState<LessonFilter>('all')
+  const [deleteError, setDeleteError] = useState<string | null>(null)
+
+  const handleDelete = async (id: string) => {
+    setDeleteError(null)
+    try {
+      await removeWord(id)
+    } catch (err) {
+      setDeleteError(err instanceof Error ? err.message : 'Deleting failed.')
+    }
+  }
 
   const lessonDates = useMemo(() => getLessonDates(items), [items])
   const selectedDate = lesson === 'latest' ? lessonDates[0] : lesson
@@ -99,8 +109,14 @@ export function VocabularyPage() {
         </div>
       </div>
 
+      {deleteError && (
+        <p className="mb-6 rounded-lg bg-rose-50 px-3 py-2 text-sm text-rose-700" role="alert">
+          {deleteError}
+        </p>
+      )}
+
       {filtered.length > 0 ? (
-        <VocabularyList items={filtered} onDelete={removeWord} />
+        <VocabularyList items={filtered} onDelete={handleDelete} />
       ) : items.length === 0 ? (
         <EmptyState title="Your vocabulary is empty" description="Add some words to see them here." />
       ) : (

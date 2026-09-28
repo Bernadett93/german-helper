@@ -1,0 +1,842 @@
+[
+  {
+    "id": "c71cddb7-23b9-43aa-8e4e-496025de45af",
+    "wordType": "other",
+    "germanWord": "abgelegen / entlegen",
+    "hungarianMeaning": "távoli, félreeső",
+    "exampleSentence": "Um sich vom Alltagsstress zu erholen, suchen manche Urlauber Ruhe in abgelegenen / entlegenen Dörfern.",
+    "other": "",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "770667d5-bafe-4564-bc65-db9948cf2343",
+    "wordType": "verb",
+    "germanWord": "berühren",
+    "hungarianMeaning": "megérint",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "1a64f330-3412-4d68-be6b-45f567a81c99",
+    "wordType": "other",
+    "germanWord": "unberührt",
+    "hungarianMeaning": "érintetlen (pl. természet)",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "11cd6f07-dc5a-4517-8a9d-7b02d94053dc",
+    "wordType": "verb",
+    "germanWord": "bewahren",
+    "hungarianMeaning": "megőriz",
+    "exampleSentence": "Der Tourismus kann dazu beitragen, die Traditionen eines Landes zu bewahren.\n(Az idegenforgalom hozzájárulhat egy ország hagyományainak megőrzéséhez.)",
+    "other": "",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "555877c9-9386-4f62-85a9-55cb64af5567",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Brauch",
+    "hungarianMeaning": "szokás, hagyomány",
+    "exampleSentence": "",
+    "other": "Bräuche",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "0d918cbc-903d-4210-afd6-872721e5e9ea",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Verhaltensweise",
+    "hungarianMeaning": "viselkedési mód, magatartás",
+    "exampleSentence": "",
+    "other": "Verhaltensweisen",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "675d917d-4a59-434c-af34-5e50e302e2b4",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Sitte",
+    "hungarianMeaning": "szokás, erkölcs",
+    "exampleSentence": "",
+    "other": "Sitten",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "30a267e3-49c6-4134-8cb4-1226c5dd20b8",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Lebensweise",
+    "hungarianMeaning": "életmód",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "fccbb30c-8e3c-42fe-83f1-cb2325ce4a79",
+    "wordType": "other",
+    "germanWord": "gastfreundlich",
+    "hungarianMeaning": "vendégszerető",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "f7c5ff6c-fcd5-41dd-98f9-7da8320c1d01",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Gastfreundschaft",
+    "hungarianMeaning": "vendégszeretet",
+    "exampleSentence": "",
+    "other": "Gastfreundschaften",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "24d6d6f9-1c76-46d3-82a5-1dbf542660a0",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Einheimische",
+    "hungarianMeaning": "helybeli",
+    "exampleSentence": "r / e Einheimische,-",
+    "other": "Einheimische",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "34b3d412-dc9b-4095-a446-a14d714f5724",
+    "wordType": "other",
+    "germanWord": "einheimisch",
+    "hungarianMeaning": "hazai",
+    "exampleSentence": "Sie sollten unbedingt einige einheimische Gerichte probieren, wenn Sie auf Reisein sind.",
+    "other": "",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "143c3256-fa45-4da8-bc25-73f5dec52e4a",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Gastland / Reiseland",
+    "hungarianMeaning": "vendéglátó ország",
+    "exampleSentence": "",
+    "other": "Gastländer / Reiseländer",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "1bf69f32-5570-42dd-a8b1-fce9bf02bd29",
+    "wordType": "verb",
+    "germanWord": "umgehen mit + D",
+    "hungarianMeaning": "bánik valakivel / valamivel",
+    "exampleSentence": "",
+    "other": "umging, i. umgangen",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "a2c90577-e806-49c5-bb68-68adee19a2db",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Reiseführer",
+    "hungarianMeaning": "útikönyv",
+    "exampleSentence": "",
+    "other": "Reiseführer",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "e272ce05-e4ae-40c2-a3c1-9d4c7aa44752",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Reiseleiter",
+    "hungarianMeaning": "idegenvezető",
+    "exampleSentence": "",
+    "other": "Reiseleiter",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "cbb0c30b-9fd0-4c45-b3d0-9f7cc46d33b1",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Jugendherberge",
+    "hungarianMeaning": "ifjúsági szálló",
+    "exampleSentence": "",
+    "other": "Jugendherbergen",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "ec3e2904-0052-447e-bf03-626bb7786ca1",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Abenteuer",
+    "hungarianMeaning": "kaland (utazás)",
+    "exampleSentence": "",
+    "other": "Abenteuer",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "d1fd2e95-57e4-4966-bc97-51bfc3df51dd",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Wohnwagen",
+    "hungarianMeaning": "lakókocsi",
+    "exampleSentence": "",
+    "other": "Wohnwagen",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "fcccb627-ae90-49fc-8dbb-d94d26dfc863",
+    "wordType": "other",
+    "germanWord": "inmitten + G",
+    "hungarianMeaning": "valami közepette",
+    "exampleSentence": "inmitten der Natur (a természet közepette)",
+    "other": "",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "25473a7e-53d7-4bd3-9216-6d33e40f6042",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Übernachtung",
+    "hungarianMeaning": "éjszakázás",
+    "exampleSentence": "",
+    "other": "Übernachtungen",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "57f38734-0507-430b-b308-37a3bbdb1a54",
+    "wordType": "verb",
+    "germanWord": "übernachten",
+    "hungarianMeaning": "éjszakázik",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "2ef7e359-dc93-4c97-bf40-e5cb0188f621",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Fluglinie",
+    "hungarianMeaning": "légvonal",
+    "exampleSentence": "",
+    "other": "Fluglinien",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "fb2972ba-37ce-40ea-99cf-8bb116542ec7",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Fluggesellschaft",
+    "hungarianMeaning": "légi társaság",
+    "exampleSentence": "",
+    "other": "Fluggesellschaften",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "adce7d69-62e4-46ba-9bfd-3a03b168a339",
+    "wordType": "verb",
+    "germanWord": "aufsuchen",
+    "hungarianMeaning": "felkeres, megkeres",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "12a18cbf-1c54-45ac-b911-a15975562dc8",
+    "wordType": "verb",
+    "germanWord": "verzichten auf + A",
+    "hungarianMeaning": "lemond valamiről",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "432bbba5-b455-468a-9ee5-cbc4541bab66",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "sanfte / nachhaltige Tourismus",
+    "hungarianMeaning": "kíméletes / fenntartható turizmus",
+    "exampleSentence": "Aufgrund des wachsenden Umweltbewusstseins gewinnt der sanfte / nachhaltige Tourismus immer mehr Anhänger.\n(A növekvő környezettudatosságnak köszönhetően a kíméletes / fenntartható turizmus egyre több hívet szerez magának.)",
+    "other": "Tourismen",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "a0c6c342-42ab-4aa5-8f3d-13657407ecb9",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Massentourismus",
+    "hungarianMeaning": "tömerturizmus",
+    "exampleSentence": "",
+    "other": "Massentourismen",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "389197c1-8815-43c0-8de4-8668dfe5b2f1",
+    "wordType": "other",
+    "germanWord": "im Gegensatz zu + D",
+    "hungarianMeaning": "valamivel ellentétben",
+    "exampleSentence": "Im Gegensatz zu einer Pauschalreise kann man eine Individualreise ganz nach eigenen Vorstellungen gestalten.",
+    "other": "",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "ff09e0b8-212d-4a7a-ae87-a8aa85ad5fe7",
+    "wordType": "verb",
+    "germanWord": "gestalten",
+    "hungarianMeaning": "alakít, formál",
+    "exampleSentence": "Im Gegensatz zu einer Pauschalreise kann man eine Individualreise ganz nach eigenen Vorstellungen gestalten.",
+    "other": "",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "6d8c9a8e-fa23-4cf8-a81d-0fc098a85289",
+    "wordType": "verb",
+    "germanWord": "bereisen",
+    "hungarianMeaning": "beutaz",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "a11ccea5-5f1d-41d2-8447-3ab0ca068bee",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Kreuzfahrt",
+    "hungarianMeaning": "luxus hajóút",
+    "exampleSentence": "Eine Kreuzfahrt bietet die Möglichkeit, verschiedene Orte zu bereisen und gleichzeitig den Komfort an Bort zu genießen.",
+    "other": "Kreuzfahrten",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "00ab2143-b22e-4564-8547-56962475dba4",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Cluburlaub",
+    "hungarianMeaning": "olyan nyaralás, ahol sok programot ígérnek gyerekeknek is",
+    "exampleSentence": "Cluburlaub ist gut für Familien geeignet, da im Hotel oft auch ein Betreuungsprogramm für Kinder angeboten wird.",
+    "other": "Cluburlaube",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "adc34851-0117-4046-89e0-bd6fff550fe5",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Pauschalreise",
+    "hungarianMeaning": "lefoglalt utazás (utazás, szállás, étkezés egyben)",
+    "exampleSentence": "",
+    "other": "Pauschalreisen",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "0cd42685-c21b-4a3d-9c4d-93f6d2d85c94",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Dienstreise",
+    "hungarianMeaning": "hivatali, üzleti út",
+    "exampleSentence": "",
+    "other": "Dienstreisen",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "836412ce-4f07-459b-9afb-acb0c6c7e668",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Klassenfahrt",
+    "hungarianMeaning": "osztálykirándulás",
+    "exampleSentence": "",
+    "other": "Klassenfahrten",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "2118bc69-9e74-4996-b811-30c70d6e1b89",
+    "wordType": "verb",
+    "germanWord": "verreisen",
+    "hungarianMeaning": "elutazik",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "2e290559-1714-4a33-b54a-f6db53ffcacc",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Rente",
+    "hungarianMeaning": "nyugdíj",
+    "exampleSentence": "Je länger man berufstätig ist, desto höher ist die Rente.",
+    "other": "Renten",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "b5fa282c-599f-4425-80f1-b6946d8566d5",
+    "wordType": "other",
+    "germanWord": "berufstätig",
+    "hungarianMeaning": "dolgozó",
+    "exampleSentence": "Je länger man berufstätig ist, desto höher ist die Rente.",
+    "other": "",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "81d6746d-cc23-4f6d-a587-204144e26e05",
+    "wordType": "verb",
+    "germanWord": "zelten",
+    "hungarianMeaning": "sátorozni",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "aaacc769-d98c-48c6-8961-29d2d6100d17",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Zelt",
+    "hungarianMeaning": "sátor",
+    "exampleSentence": "",
+    "other": "Zelte",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "68c316cc-9887-43e6-9ef6-f751298099ad",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Kroatien",
+    "hungarianMeaning": "Horvátország",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "205f562f-f11f-4a5d-bf16-50bba7301e14",
+    "wordType": "verb",
+    "germanWord": "übereinstimmen",
+    "hungarianMeaning": "megegyezik",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "2506599c-a2c6-4030-bf27-413ad1e86104",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Altstadt",
+    "hungarianMeaning": "óváros",
+    "exampleSentence": "",
+    "other": "Altstädte",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "5c3f61d3-b032-472d-af04-10e0a26deb31",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Dienstleistung",
+    "hungarianMeaning": "szolgáltatás",
+    "exampleSentence": "",
+    "other": "Dienstleistungen",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "0b4108ed-eb66-413b-80af-c9f840bfab12",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Halbpension",
+    "hungarianMeaning": "félpanzió",
+    "exampleSentence": "",
+    "other": "Halbpensionen",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "a090a9c3-0750-4e2e-882b-9e5dd6435a01",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Vollpension",
+    "hungarianMeaning": "teljes ellátás",
+    "exampleSentence": "",
+    "other": "Vollpensionen",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "598f2ed1-4120-430c-bc4c-f157d84353a1",
+    "wordType": "verb",
+    "germanWord": "genießen",
+    "hungarianMeaning": "élvezni",
+    "exampleSentence": "",
+    "other": "genoss, h. genossen",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "f8d76746-6253-4dba-9907-372464c4366c",
+    "wordType": "other",
+    "germanWord": "überfordert",
+    "hungarianMeaning": "túlterhelt",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "762a4cd9-0e88-4295-a536-2e168b3f7c9c",
+    "wordType": "other",
+    "germanWord": "gering",
+    "hungarianMeaning": "csekély",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "5d6119a3-42a9-4c69-9fbe-a6a4df1a7f31",
+    "wordType": "other",
+    "germanWord": "glatt",
+    "hungarianMeaning": "jeges",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "db50ae79-1715-42a3-904c-6780e196f73a",
+    "wordType": "other",
+    "germanWord": "verbrennen die Zunge",
+    "hungarianMeaning": "megégeti a nyelvét",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "8b41183a-e569-499f-8cb5-39aa5f08e2d0",
+    "wordType": "other",
+    "germanWord": "einerseits... andererseit",
+    "hungarianMeaning": "egyrészt... másrészt",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "8441efc9-a568-4b56-bf2f-3b10b1fd3dc8",
+    "wordType": "other",
+    "germanWord": "nicht nur... sondern auch",
+    "hungarianMeaning": "nem csak... hanem",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "c4032888-dec4-4b46-b14a-2f991ccce54c",
+    "wordType": "other",
+    "germanWord": "zwar... aber",
+    "hungarianMeaning": "bár... de",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "20f68897-a3b2-4f80-83d7-30cc7b33f3e3",
+    "wordType": "other",
+    "germanWord": "sowohl... als auch",
+    "hungarianMeaning": "is... is",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "3f6d8130-233b-4910-a19b-67256d48efaa",
+    "wordType": "other",
+    "germanWord": "weder... noch",
+    "hungarianMeaning": "sem... sem",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "c1982ffe-ba4d-401a-864c-f8d30e772972",
+    "wordType": "other",
+    "germanWord": "entweder... oder",
+    "hungarianMeaning": "vagy... vagy",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "9546d997-2b53-4f68-9f43-2fd966344037",
+    "wordType": "other",
+    "germanWord": "erschöpft",
+    "hungarianMeaning": "kimerült",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "a7843775-9fbf-4890-8751-8d36f6528171",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Messe",
+    "hungarianMeaning": "vásár",
+    "exampleSentence": "",
+    "other": "Messen",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "f0393b55-a12f-4834-a76a-981de24db0a2",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Auftritt",
+    "hungarianMeaning": "fellépés",
+    "exampleSentence": "",
+    "other": "Auftritte",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "9d214163-83e1-4aad-ad3c-cd64f9edf674",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Heimatmuseum",
+    "hungarianMeaning": "tájház",
+    "exampleSentence": "",
+    "other": "Heimatmuseen",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "447ebada-397a-4763-9532-ed33af488af5",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Anfänger",
+    "hungarianMeaning": "kezdő",
+    "exampleSentence": "",
+    "other": "Anfänger",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "6ef0bdf3-2427-44c0-80a3-18d63f2eb399",
+    "wordType": "other",
+    "germanWord": "flach",
+    "hungarianMeaning": "lapos, síkság",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "fa7c7fe3-d7e3-41b6-8ccc-3af21f5c7ea8",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Ferienwohnung",
+    "hungarianMeaning": "nyaraló, apartman",
+    "exampleSentence": "",
+    "other": "Ferienwohnungen",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "d169e5dd-a87d-4dea-8939-d62ad167243c",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Blüte",
+    "hungarianMeaning": "virágzás",
+    "exampleSentence": "",
+    "other": "Blüten",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "9d49de7c-8dc9-49d5-bfa7-2fd8406ee820",
+    "wordType": "verb",
+    "germanWord": "s. engagieren",
+    "hungarianMeaning": "elkötelezi magát",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "d5d7bee1-d52a-4c42-98cf-0b663858d601",
+    "wordType": "verb",
+    "germanWord": "s. kümmern um + A",
+    "hungarianMeaning": "gondoskodni valamiről",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "f015be9d-cd2a-48e7-a041-997b303bc722",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Naturschutzgebiet",
+    "hungarianMeaning": "természetvédelmi terület",
+    "exampleSentence": "",
+    "other": "Naturschutzgebiete",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "6e352986-643c-47e8-bd33-071d737b40c5",
+    "wordType": "verb",
+    "germanWord": "verpflanzen",
+    "hungarianMeaning": "átültet, áttelepít",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "74bafb66-d69f-4a84-92d2-c394a59ecaef",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Handelsbeziehung",
+    "hungarianMeaning": "kereskedelmi kapcsolat",
+    "exampleSentence": "",
+    "other": "Handelsbeziehungen",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "02bfaa11-475f-4f59-87f4-4847104d4595",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Wachs",
+    "hungarianMeaning": "viasz",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "f8d35b3d-f94c-42b8-8263-d428d15715ad",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Wolle",
+    "hungarianMeaning": "gyapjú",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "edbc2f59-8a69-4288-9130-d699769e2373",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Honig",
+    "hungarianMeaning": "méz",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "5a350abb-8f45-484b-b9e3-fa095cfece4e",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Schaf",
+    "hungarianMeaning": "juh, birka",
+    "exampleSentence": "",
+    "other": "Schafe",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "68fb6695-582a-407b-aae0-032ef3091523",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Biene",
+    "hungarianMeaning": "méhek",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "20a73c63-c5fc-404c-b0fc-ace3e21d1acf",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Ackerbau",
+    "hungarianMeaning": "földművelés",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "208f0a8c-a34f-41ba-9b6a-dd560ff6048e",
+    "wordType": "verb",
+    "germanWord": "fällen",
+    "hungarianMeaning": "kivágni (pl. fákat)",
+    "exampleSentence": "fällen die Wälder",
+    "other": "fiel, h. gefällt",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "dbe9a192-a91b-428e-9e38-53e239b96214",
+    "wordType": "other",
+    "germanWord": "ein Traum geht in Erfüllung",
+    "hungarianMeaning": "egy álom válik valóra",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "5900d447-f0b4-46d0-98d4-2d6f7b792855",
+    "wordType": "other",
+    "germanWord": "begeistert",
+    "hungarianMeaning": "lelkes",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "608c8728-554e-4343-8aed-61840660751c",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Begeisterung",
+    "hungarianMeaning": "lelkesedés",
+    "exampleSentence": "",
+    "other": "Begeisterungen",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "677a48cf-1747-4124-859a-e9329f195b30",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Bewohner",
+    "hungarianMeaning": "lakos (ffi)",
+    "exampleSentence": "",
+    "other": "Bewohner",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "5b5c425e-8ccd-4fd2-8706-3aa0ba20937d",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Bewohnerin",
+    "hungarianMeaning": "lakos (női)",
+    "exampleSentence": "",
+    "other": "Bewohnerinnen",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "2ac4abb7-6640-4810-95b4-1de7bfc1fc56",
+    "wordType": "verb",
+    "germanWord": "vertreten",
+    "hungarianMeaning": "képvisel",
+    "exampleSentence": "",
+    "other": "(vertritt) vertrat, h. vertreten",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "8b22e13e-a2fa-4aab-825f-d1e4d6640eed",
+    "wordType": "verb",
+    "germanWord": "pflegen",
+    "hungarianMeaning": "gondozni",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "329f21e4-6f71-4c3c-99ae-a02cba2a326d",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Pflege",
+    "hungarianMeaning": "gondozás",
+    "exampleSentence": "",
+    "other": "Pflegen",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "50559da4-27bc-424b-be8c-62b0aa4c017f",
+    "wordType": "verb",
+    "germanWord": "entstehen",
+    "hungarianMeaning": "keletkezik",
+    "exampleSentence": "",
+    "other": "entstand, i. entstanden",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "fdfd44b6-47d6-4bab-8d7b-1647612a3d17",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Entstehung",
+    "hungarianMeaning": "keletkezés",
+    "exampleSentence": "",
+    "other": "Entstehungen",
+    "date": "2026-09-16"
+  }
+]
