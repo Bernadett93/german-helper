@@ -4,6 +4,7 @@ import { VocabularyProvider } from './context/VocabularyProvider'
 import { AddVocabularyPage } from './pages/AddVocabularyPage'
 import { DashboardPage } from './pages/DashboardPage'
 import { EditVocabularyPage } from './pages/EditVocabularyPage'
+import { PracticePage } from './pages/PracticePage'
 import { VocabularyPage } from './pages/VocabularyPage'
 
 export default function App() {
@@ -16,6 +17,7 @@ export default function App() {
             <Route path="vocabulary" element={<VocabularyPage />} />
             <Route path="vocabulary/new" element={<AddVocabularyPage />} />
             <Route path="vocabulary/:id/edit" element={<EditVocabularyPage />} />
+            <Route path="practice" element={<PracticePage />} />
             <Route path="*" element={<Navigate to="/" replace />} />
           </Route>
         </Routes>

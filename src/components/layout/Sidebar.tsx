@@ -1,4 +1,4 @@
-import { BookOpen, LayoutDashboard, PlusCircle, type LucideIcon } from 'lucide-react'
+import { BookOpen, Brain, LayoutDashboard, PlusCircle, type LucideIcon } from 'lucide-react'
 import { NavLink } from 'react-router-dom'
 
 interface NavItem {
@@ -10,6 +10,7 @@ interface NavItem {
 const NAV_ITEMS: NavItem[] = [
   { to: '/', label: 'Dashboard', icon: LayoutDashboard },
   { to: '/vocabulary', label: 'Vocabulary', icon: BookOpen },
+  { to: '/practice', label: 'Practice', icon: Brain },
   { to: '/vocabulary/new', label: 'Add word', icon: PlusCircle },
 ]
 
