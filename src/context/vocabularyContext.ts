@@ -11,6 +11,7 @@ export interface VocabularyContextValue {
   /** Mutations reject with an Error when the server call fails. */
   addWord: (word: NewVocabulary) => Promise<Vocabulary>
   updateWord: (id: string, word: NewVocabulary) => Promise<Vocabulary>
+  setWordLearned: (id: string, learned: boolean) => Promise<Vocabulary>
   removeWord: (id: string) => Promise<void>
 }
 

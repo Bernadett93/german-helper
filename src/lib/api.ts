@@ -26,6 +26,11 @@ export const vocabularyApi = {
     request<Vocabulary>('', { method: 'POST', body: JSON.stringify(word) }),
   update: (id: string, word: NewVocabulary) =>
     request<Vocabulary>(`/${encodeURIComponent(id)}`, { method: 'PUT', body: JSON.stringify(word) }),
+  setLearned: (id: string, learned: boolean) =>
+    request<Vocabulary>(`/${encodeURIComponent(id)}/learned`, {
+      method: 'PATCH',
+      body: JSON.stringify({ learned }),
+    }),
   remove: (id: string) => request<void>(`/${encodeURIComponent(id)}`, { method: 'DELETE' }),
   import: (words: Vocabulary[]) =>
     request<Vocabulary[]>('/import', { method: 'POST', body: JSON.stringify(words) }),

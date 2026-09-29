@@ -16,6 +16,7 @@ export interface Vocabulary {
   other: string
   /** Lesson date as YYYY-MM-DD. */
   date: string
+  learned: boolean
 }
 
-export type NewVocabulary = Omit<Vocabulary, 'id'>
+export type NewVocabulary = Omit<Vocabulary, 'id' | 'learned'>

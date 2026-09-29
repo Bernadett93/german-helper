@@ -36,6 +36,14 @@ app.put('/api/vocabulary/:id', async (req, res) => {
   res.json(await store.update(req.params.id, word))
 })
 
+app.patch('/api/vocabulary/:id/learned', async (req, res) => {
+  if (typeof req.body?.learned !== 'boolean') {
+    res.status(400).json({ error: 'learned must be a boolean.' })
+    return
+  }
+  res.json(await store.setLearned(req.params.id, req.body.learned))
+})
+
 app.delete('/api/vocabulary/:id', async (req, res) => {
   await store.remove(req.params.id)
   res.status(204).end()

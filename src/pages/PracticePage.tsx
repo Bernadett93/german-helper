@@ -1,12 +1,15 @@
-import { ArrowLeftRight, Check, Eye, RotateCcw, X } from 'lucide-react'
+import { ArrowLeftRight, Check, Eye, RefreshCw, X } from 'lucide-react'
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { EmptyState } from '../components/ui/EmptyState'
 import { PageHeader } from '../components/ui/PageHeader'
 import { useVocabulary } from '../hooks/useVocabulary'
+import { formatDate } from '../lib/date'
+import { getLessonDates } from '../lib/lessons'
 import type { Vocabulary } from '../types/vocabulary'
 
 type Direction = 'german-to-hungarian' | 'hungarian-to-german'
+type LearningFilter = 'all' | 'not-learned' | 'learned'
 
 function shuffle(items: Vocabulary[]): Vocabulary[] {
   const shuffled = [...items]
@@ -22,27 +25,68 @@ function getGermanWord(word: Vocabulary): string {
 }
 
 export function PracticePage() {
-  const { items } = useVocabulary()
+  const { items, setWordLearned } = useVocabulary()
+  const [selectedDate, setSelectedDate] = useState('all')
+  const [learningFilter, setLearningFilter] = useState<LearningFilter>('all')
   const [deck, setDeck] = useState(() => shuffle(items))
   const [direction, setDirection] = useState<Direction>('german-to-hungarian')
   const [currentIndex, setCurrentIndex] = useState(0)
-  const [knownCount, setKnownCount] = useState(0)
-  const [answeredCount, setAnsweredCount] = useState(0)
+  const [results, setResults] = useState<{ word: Vocabulary; knewIt: boolean }[]>([])
   const [answerVisible, setAnswerVisible] = useState(false)
+  const [savingAnswer, setSavingAnswer] = useState(false)
+  const [error, setError] = useState<string | null>(null)
 
-  const currentWord = deck[currentIndex]
+  const lessonDates = getLessonDates(items)
+  const practiceWords = items.filter((word) => {
+    if (selectedDate !== 'all' && word.date !== selectedDate) return false
+    if (learningFilter === 'learned' && !word.learned) return false
+    if (learningFilter === 'not-learned' && word.learned) return false
+    return true
+  })
+  const currentWord: Vocabulary | undefined = deck[currentIndex]
+  const answeredCount = results.length
   const isComplete = deck.length > 0 && answeredCount >= deck.length
-  const prompt =
-    direction === 'german-to-hungarian' ? getGermanWord(currentWord) : currentWord?.hungarianMeaning
-  const answer =
-    direction === 'german-to-hungarian' ? currentWord?.hungarianMeaning : getGermanWord(currentWord)
+  const knownCount = results.filter((r) => r.knewIt).length
+  const unlearnedForDate = items.filter(
+    (word) => !word.learned && (selectedDate === 'all' || word.date === selectedDate),
+  )
+  const germanText = currentWord ? getGermanWord(currentWord) : ''
+  const hungarianText = currentWord?.hungarianMeaning ?? ''
+  const prompt = direction === 'german-to-hungarian' ? germanText : hungarianText
+  const answer = direction === 'german-to-hungarian' ? hungarianText : germanText
 
-  const startAgain = () => {
-    setDeck(shuffle(items))
+  const resetSession = (words: Vocabulary[]) => {
+    setDeck(shuffle(words))
     setCurrentIndex(0)
-    setKnownCount(0)
-    setAnsweredCount(0)
+    setResults([])
     setAnswerVisible(false)
+    setError(null)
+  }
+
+  const startAgain = () => resetSession(practiceWords)
+
+  const changeDate = (date: string) => {
+    setSelectedDate(date)
+    resetSession(
+      items.filter((word) => {
+        if (date !== 'all' && word.date !== date) return false
+        if (learningFilter === 'learned' && !word.learned) return false
+        if (learningFilter === 'not-learned' && word.learned) return false
+        return true
+      }),
+    )
+  }
+
+  const changeLearningFilter = (filter: LearningFilter) => {
+    setLearningFilter(filter)
+    resetSession(
+      items.filter((word) => {
+        if (selectedDate !== 'all' && word.date !== selectedDate) return false
+        if (filter === 'learned' && !word.learned) return false
+        if (filter === 'not-learned' && word.learned) return false
+        return true
+      }),
+    )
   }
 
   const changeDirection = (nextDirection: Direction) => {
@@ -50,11 +94,21 @@ export function PracticePage() {
     startAgain()
   }
 
-  const rateAnswer = (knewIt: boolean) => {
-    if (knewIt) setKnownCount((count) => count + 1)
-    setAnsweredCount((count) => count + 1)
+  const rateAnswer = async (knewIt: boolean) => {
+    if (!currentWord || savingAnswer) return
+    setSavingAnswer(true)
+    setError(null)
+    try {
+      await setWordLearned(currentWord.id, knewIt)
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'Could not save learned status.')
+      setSavingAnswer(false)
+      return
+    }
+    setResults((prev) => [...prev, { word: currentWord, knewIt }])
     setCurrentIndex((index) => index + 1)
     setAnswerVisible(false)
+    setSavingAnswer(false)
   }
 
   return (
@@ -66,10 +120,10 @@ export function PracticePage() {
           <button
             type="button"
             onClick={startAgain}
-            disabled={items.length === 0}
+            disabled={practiceWords.length === 0}
             className="inline-flex items-center gap-2 rounded-xl border border-slate-200 bg-white px-4 py-2.5 text-sm font-semibold text-slate-700 shadow-sm transition hover:bg-slate-50 disabled:cursor-not-allowed disabled:opacity-50"
           >
-            <RotateCcw className="h-4 w-4" /> Restart
+            <RefreshCw className="h-4 w-4" /> Restart
           </button>
         }
       />
@@ -89,6 +143,40 @@ export function PracticePage() {
         />
       ) : (
         <section className="mx-auto max-w-2xl">
+          <label className="mb-4 flex flex-col gap-1.5 text-sm font-medium text-slate-700 sm:max-w-xs">
+            Practice words from
+            <select
+              value={selectedDate}
+              onChange={(event) => changeDate(event.target.value)}
+              className="rounded-xl border border-slate-200 bg-white px-3 py-2.5 text-sm font-normal shadow-sm outline-none transition focus:border-indigo-400 focus:ring-4 focus:ring-indigo-100"
+            >
+              <option value="all">All dates</option>
+              {lessonDates.map((date) => (
+                <option key={date} value={date}>
+                  {formatDate(date)}
+                </option>
+              ))}
+            </select>
+          </label>
+          <label className="mb-5 flex flex-col gap-1.5 text-sm font-medium text-slate-700 sm:max-w-xs">
+            Word status
+            <select
+              value={learningFilter}
+              onChange={(event) => changeLearningFilter(event.target.value as LearningFilter)}
+              className="rounded-xl border border-slate-200 bg-white px-3 py-2.5 text-sm font-normal shadow-sm outline-none transition focus:border-indigo-400 focus:ring-4 focus:ring-indigo-100"
+            >
+              <option value="all">All words</option>
+              <option value="not-learned">Not learned</option>
+              <option value="learned">Already learned</option>
+            </select>
+          </label>
+          {deck.length === 0 ? (
+            <EmptyState
+              title="No words match these filters"
+              description="Choose another date or word status to continue practicing."
+            />
+          ) : (
+            <>
           <div className="mb-5 flex flex-wrap items-center justify-between gap-3">
             <div className="inline-flex rounded-xl border border-slate-200 bg-white p-1 shadow-sm">
               <button
@@ -124,24 +212,44 @@ export function PracticePage() {
           </div>
 
           {isComplete ? (
-            <div className="rounded-2xl border border-slate-200 bg-white px-6 py-12 text-center shadow-sm">
-              <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-full bg-emerald-100 text-emerald-700">
-                <Check className="h-6 w-6" />
+            <div className="rounded-2xl border border-slate-200 bg-white p-6 text-center shadow-sm sm:p-8">
+              <h2 className="text-xl font-bold text-slate-900">Practice summary</h2>
+              <div className="mx-auto mt-6 grid max-w-md grid-cols-2 gap-4">
+                <div className="rounded-xl bg-emerald-50 p-4">
+                  <p className="text-3xl font-bold text-emerald-700">{knownCount}</p>
+                  <p className="mt-1 text-sm font-medium text-emerald-800">Learned</p>
+                </div>
+                <div className="rounded-xl bg-rose-50 p-4">
+                  <p className="text-3xl font-bold text-rose-700">{deck.length - knownCount}</p>
+                  <p className="mt-1 text-sm font-medium text-rose-800">Still to learn</p>
+                </div>
               </div>
-              <h2 className="mt-4 text-xl font-bold text-slate-900">Practice complete!</h2>
-              <p className="mt-2 text-sm text-slate-500">
-                You knew {knownCount} of {deck.length} {deck.length === 1 ? 'word' : 'words'}.
-              </p>
-              <button
-                type="button"
-                onClick={startAgain}
-                className="mt-6 inline-flex items-center gap-2 rounded-xl bg-indigo-600 px-4 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:bg-indigo-700"
-              >
-                <RotateCcw className="h-4 w-4" /> Practice again
-              </button>
+              <div className="mt-6 flex flex-wrap justify-center gap-3">
+                <button
+                  type="button"
+                  onClick={startAgain}
+                  disabled={practiceWords.length === 0}
+                  className="inline-flex items-center gap-2 rounded-xl bg-indigo-600 px-4 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:bg-indigo-700 disabled:cursor-not-allowed disabled:opacity-50"
+                >
+                  <RefreshCw className="h-4 w-4" /> Practice again
+                </button>
+                <button
+                  type="button"
+                  onClick={() => changeLearningFilter('not-learned')}
+                  disabled={unlearnedForDate.length === 0}
+                  className="inline-flex items-center gap-2 rounded-xl border border-rose-200 bg-white px-4 py-2.5 text-sm font-semibold text-rose-700 shadow-sm transition hover:bg-rose-50 disabled:cursor-not-allowed disabled:opacity-50"
+                >
+                  <RefreshCw className="h-4 w-4" /> Practice unlearned words ({unlearnedForDate.length})
+                </button>
+              </div>
             </div>
           ) : (
             <>
+              {error && (
+                <p className="mb-4 rounded-lg bg-rose-50 px-3 py-2 text-sm text-rose-700" role="alert">
+                  {error}
+                </p>
+              )}
               <div className="mb-2 h-2 overflow-hidden rounded-full bg-slate-200">
                 <div
                   className="h-full rounded-full bg-indigo-600 transition-all"
@@ -174,6 +282,7 @@ export function PracticePage() {
                     <button
                       type="button"
                       onClick={() => rateAnswer(false)}
+                      disabled={savingAnswer}
                       className="inline-flex items-center gap-2 rounded-xl border border-rose-200 px-4 py-2.5 text-sm font-semibold text-rose-700 transition hover:bg-rose-50"
                     >
                       <X className="h-4 w-4" /> Not yet
@@ -181,7 +290,8 @@ export function PracticePage() {
                     <button
                       type="button"
                       onClick={() => rateAnswer(true)}
-                      className="inline-flex items-center gap-2 rounded-xl bg-emerald-600 px-4 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:bg-emerald-700"
+                      disabled={savingAnswer}
+                      className="inline-flex items-center gap-2 rounded-xl bg-emerald-600 px-4 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:bg-emerald-700 disabled:cursor-wait disabled:opacity-60"
                     >
                       <Check className="h-4 w-4" /> I knew it
                     </button>
@@ -192,6 +302,8 @@ export function PracticePage() {
                 <ArrowLeftRight className="h-4 w-4" />
                 Words are shuffled for each practice session.
               </p>
+            </>
+          )}
             </>
           )}
         </section>

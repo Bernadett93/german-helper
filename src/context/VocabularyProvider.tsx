@@ -55,14 +55,20 @@ export function VocabularyProvider({ children }: { children: ReactNode }) {
     return updated
   }, [])
 
+  const setWordLearned = useCallback(async (id: string, learned: boolean) => {
+    const updated = await vocabularyApi.setLearned(id, learned)
+    setItems((prev) => prev.map((item) => (item.id === id ? updated : item)))
+    return updated
+  }, [])
+
   const removeWord = useCallback(async (id: string) => {
     await vocabularyApi.remove(id)
     setItems((prev) => prev.filter((item) => item.id !== id))
   }, [])
 
   const value = useMemo(
-    () => ({ items, status, error, reload, addWord, updateWord, removeWord }),
-    [items, status, error, reload, addWord, updateWord, removeWord],
+    () => ({ items, status, error, reload, addWord, updateWord, setWordLearned, removeWord }),
+    [items, status, error, reload, addWord, updateWord, setWordLearned, removeWord],
   )
 
   return <VocabularyContext.Provider value={value}>{children}</VocabularyContext.Provider>

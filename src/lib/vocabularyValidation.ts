@@ -25,7 +25,9 @@ export function normalizeVocabulary(value: unknown): Vocabulary | null {
     wordType: value.wordType ?? 'noun',
     date: isISODate(value.date) ? value.date : todayISO(),
   })
-  return typeof parsed === 'string' ? null : { id: value.id, ...parsed }
+  return typeof parsed === 'string'
+    ? null
+    : { id: value.id, ...parsed, learned: value.learned === true }
 }
 
 /** Validates user input for a new or updated word. Returns an error message when invalid. */

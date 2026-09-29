@@ -22,7 +22,7 @@ export class VocabularyStore {
   create(word: NewVocabulary): Promise<Vocabulary> {
     return this.enqueue(async () => {
       const items = await this.read()
-      const created: Vocabulary = { id: randomUUID(), ...word }
+      const created: Vocabulary = { id: randomUUID(), ...word, learned: false }
       await this.write([created, ...items])
       return created
     })
@@ -33,10 +33,21 @@ export class VocabularyStore {
       const items = await this.read()
       const index = items.findIndex((item) => item.id === id)
       if (index === -1) throw new NotFoundError(`Word ${id} not found.`)
-      const updated: Vocabulary = { id, ...word }
+      const updated: Vocabulary = { id, ...word, learned: items[index].learned }
       items[index] = updated
       await this.write(items)
       return updated
+    })
+  }
+
+  setLearned(id: string, learned: boolean): Promise<Vocabulary> {
+    return this.enqueue(async () => {
+      const items = await this.read()
+      const word = items.find((item) => item.id === id)
+      if (!word) throw new NotFoundError(`Word ${id} not found.`)
+      word.learned = learned
+      await this.write(items)
+      return word
     })
   }
 
