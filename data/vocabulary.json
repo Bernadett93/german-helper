@@ -1,5 +1,324 @@
 [
   {
+    "id": "cdd6a73c-ccaf-4b65-8c83-2feffe2c22ec",
+    "wordType": "verb",
+    "germanWord": "umgehen mit + D",
+    "hungarianMeaning": "bánni valamivel, valakivel",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "74b523c4-3e9a-4d50-b1a2-67116a6514e8",
+    "wordType": "verb",
+    "germanWord": "aufsteigen",
+    "hungarianMeaning": "felmászik",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "574bffeb-76ac-4257-a0c8-f8d78455d613",
+    "wordType": "other",
+    "germanWord": "mühsam",
+    "hungarianMeaning": "fáradságos, nehézkes",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "5c249b5a-f53f-404e-bfa0-cebf81feeaac",
+    "wordType": "verb",
+    "germanWord": "geraten in + A",
+    "hungarianMeaning": "valamibe kerül (ide negatív dolog kerül)",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "82d8aece-3cef-49de-b987-4fed0926de04",
+    "wordType": "other",
+    "germanWord": "ins Lebensgefahr geraten",
+    "hungarianMeaning": "életveszélybe kerül",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "1d3a8160-77ef-4e86-ae12-9d5567f9d604",
+    "wordType": "verb",
+    "germanWord": "verunglücken",
+    "hungarianMeaning": "szerencsétlenség ér",
+    "exampleSentence": "",
+    "other": "verunglückte, i. verunglückt",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "7134dafe-3cc0-4b4c-a4f8-cc04bcb42498",
+    "wordType": "other",
+    "germanWord": "grundsätzlich",
+    "hungarianMeaning": "alapvetően",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "6918af49-5f34-4c6f-bb02-9f4882997dad",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Eintrag",
+    "hungarianMeaning": "bejegyzés",
+    "exampleSentence": "",
+    "other": "Einträge",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "48a8a0d8-b9e4-44cd-bead-1108fd521230",
+    "wordType": "other",
+    "germanWord": "ungefähr",
+    "hungarianMeaning": "körülbelül",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "44522d75-84a6-4d0a-b506-1ed1fa620dd8",
+    "wordType": "verb",
+    "germanWord": "überlegen",
+    "hungarianMeaning": "átgondol",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "957bfc28-9d6c-49c6-bcbb-700c63ebde82",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Bargeld",
+    "hungarianMeaning": "készpénz",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "3152b13d-ba3a-41f5-b588-ae6edbe28af0",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Deckenlicht",
+    "hungarianMeaning": "plafonon lévő lámpa",
+    "exampleSentence": "",
+    "other": "Deckenlichter",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "fe047c4c-7123-4535-995b-dfee522774ca",
+    "wordType": "other",
+    "germanWord": "ausreichend",
+    "hungarianMeaning": "elegendő",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "599772d7-5abe-4945-9f53-e7ed1f7f2d9d",
+    "wordType": "other",
+    "germanWord": "steil",
+    "hungarianMeaning": "meredek",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "98639ac1-98a1-41a7-94c1-0ded27303a64",
+    "wordType": "other",
+    "germanWord": "keine Auge zu machen",
+    "hungarianMeaning": "le sem hunyod a szemed (nem alszol semmit)",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "a32ad414-922b-4712-b2d5-0057ba9ab4dd",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Schnarcher",
+    "hungarianMeaning": "horkoló ember",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "84d6e5f1-fcae-4348-9201-5a5d04871644",
+    "wordType": "verb",
+    "germanWord": "schnarchen",
+    "hungarianMeaning": "horkol",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "ad097ae5-e7d7-4865-a4e0-a8aa667f3264",
+    "wordType": "verb",
+    "germanWord": "sorgen für + A",
+    "hungarianMeaning": "gondoskodni valamiről",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "0bb08a9c-33c5-4336-812f-3de686a6f089",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Ohrstöpsel",
+    "hungarianMeaning": "füldugó",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "de4636e4-4806-432c-827e-965dcefff155",
+    "wordType": "other",
+    "germanWord": "leise",
+    "hungarianMeaning": "halk, csendes",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "8d3ceb77-fede-461f-b1d4-331ba1472afd",
+    "wordType": "verb",
+    "germanWord": "aufbrechen",
+    "hungarianMeaning": "elindulni",
+    "exampleSentence": "",
+    "other": "(bricht auf) brach auf, h. aufgebrochen",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "4e21dcec-219d-45d7-bf92-18c25eb8dc19",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Wohlbefinden",
+    "hungarianMeaning": "jólét",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "8a384f99-b066-4ded-a7cb-f501a1ea604f",
+    "wordType": "other",
+    "germanWord": "das Wohl auf anderen Gäste",
+    "hungarianMeaning": "mások jólléte",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "801c497d-38cc-46b1-a665-f1db021a0aa1",
+    "wordType": "other",
+    "germanWord": "Rücksicht nehmen auf + A",
+    "hungarianMeaning": "tekintettel lenni valakire / valamire",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "d60766d7-577d-43ad-9bcf-397d57ae92d6",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Rücksicht",
+    "hungarianMeaning": "figyelem, tekintet",
+    "exampleSentence": "",
+    "other": "Rücksichten",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "4d5961ff-8aab-4d9e-9176-362ff97ba19e",
+    "wordType": "verb",
+    "germanWord": "ausreichen",
+    "hungarianMeaning": "elegendő, elég",
+    "exampleSentence": "Ein leichter Hüttenschlafsack reicht aus.\nEgy könnyű hálózsákbetét is elegendő.",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "214d8238-2d9a-4e8a-ba05-2a0c06935562",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Wolldecke",
+    "hungarianMeaning": "gyapjútakaró",
+    "exampleSentence": "",
+    "other": "Wolldecken",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "be053a68-edb9-4c00-830e-280f280b724c",
+    "wordType": "verb",
+    "germanWord": "bewirtschaften",
+    "hungarianMeaning": "üzemeltet, működtet",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "432c0d6a-0196-407d-af38-0bd3d15e9180",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Wirt",
+    "hungarianMeaning": "házigazda, vendéglátó",
+    "exampleSentence": "",
+    "other": "Wirte",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "9b44d73e-df97-40e3-a2ed-9349e1c374fd",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Imbiss",
+    "hungarianMeaning": "harapnivaló (pl. lángos)",
+    "exampleSentence": "",
+    "other": "Imbisse",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "1b797ae6-9792-4a08-b83a-29e8ace8460f",
+    "wordType": "verb",
+    "germanWord": "untersagen",
+    "hungarianMeaning": "eltilt, megtilt",
+    "exampleSentence": "",
+    "other": "untersagte, h. untersagt",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "39668f2b-4ff5-4247-aac6-7fb525de1970",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Rucksack",
+    "hungarianMeaning": "hátizsák",
+    "exampleSentence": "",
+    "other": "Rucksäcke",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "d4f2b597-77a6-4f14-81b5-9220b79ea386",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Proviant",
+    "hungarianMeaning": "élelem, útravaló kaja",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "5b87e048-c498-44a2-87e2-f8b742dd74ec",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Belohnung",
+    "hungarianMeaning": "díj, jutalom",
+    "exampleSentence": "",
+    "other": "Belohnungen",
+    "date": "2026-09-28"
+  },
+  {
     "id": "4baa1f07-d176-4782-862e-b43da287babf",
     "wordType": "other",
     "germanWord": "s. auf die Suche machen nach + D",
