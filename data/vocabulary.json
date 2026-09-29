@@ -1,5 +1,469 @@
 [
   {
+    "id": "4baa1f07-d176-4782-862e-b43da287babf",
+    "wordType": "other",
+    "germanWord": "s. auf die Suche machen nach + D",
+    "hungarianMeaning": "keresni valami után (=suchen)",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "c53359ba-f6d0-4d9d-9101-ba61095f43e2",
+    "wordType": "verb",
+    "germanWord": "loswerden",
+    "hungarianMeaning": "megszabadulni valamitől",
+    "exampleSentence": "",
+    "other": "(wird los), wurde los, i. losgeworden",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "56ce5e5a-995c-476f-bada-5af1916a3ef5",
+    "wordType": "other",
+    "germanWord": "s. eine Auszeit nehmen",
+    "hungarianMeaning": "kiszállni a mókuskerékből, szünetet tartani",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "1ceb6682-7b12-48fe-bc8e-4af349f951f9",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Kunstschatz",
+    "hungarianMeaning": "műkincs",
+    "exampleSentence": "",
+    "other": "Kunstschätze",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "5991af01-1c12-4ea9-93f0-4f5a24a76cda",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Denkmal",
+    "hungarianMeaning": "emlékmű, műemlék",
+    "exampleSentence": "",
+    "other": "Denkmäler",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "1ee16835-d992-4c81-baf7-e40f49a459da",
+    "wordType": "other",
+    "germanWord": "abwechslungsreich",
+    "hungarianMeaning": "változatos",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "0c550b5f-3145-4907-86e0-e455640975dd",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Rakete",
+    "hungarianMeaning": "rakéta",
+    "exampleSentence": "",
+    "other": "Raketen",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "9011b64e-2063-49e6-978d-99e7e59bf296",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Krawatte",
+    "hungarianMeaning": "nyakkendő",
+    "exampleSentence": "",
+    "other": "Krawatten",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "d255ab8f-ff88-46ea-8b51-2bbc5ea0d588",
+    "wordType": "other",
+    "germanWord": "auf dem Planeten",
+    "hungarianMeaning": "a bolygón",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "281d2211-945b-404b-88c0-f9fc78e34383",
+    "wordType": "other",
+    "germanWord": "am Computer",
+    "hungarianMeaning": "számítógéphez ül",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "d21bcc7b-ca6c-469c-9def-092dd129ecbb",
+    "wordType": "other",
+    "germanWord": "an den Tisch",
+    "hungarianMeaning": "asztalhoz ül",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "a3e0ec57-e4d0-4504-97b7-0607d303ac8f",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Muffel",
+    "hungarianMeaning": "mogorva alak",
+    "exampleSentence": "",
+    "other": "Muffel",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "90362504-5b86-41cf-ab87-b5e1223f4e30",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Fasching",
+    "hungarianMeaning": "karnevál, farsang",
+    "exampleSentence": "",
+    "other": "Faschinge",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "43bdcf89-9800-4018-a629-51920e60c171",
+    "wordType": "verb",
+    "germanWord": "fliehen",
+    "hungarianMeaning": "menekül",
+    "exampleSentence": "",
+    "other": "floh, i. geflohen",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "21e9f2ce-7c12-4676-a025-3d425e616429",
+    "wordType": "verb",
+    "germanWord": "stattfinden",
+    "hungarianMeaning": "megrendezésre kerül",
+    "exampleSentence": "Die Veranstaltung findet in Budapest statt.",
+    "other": "fand statt, h. stattgefunden",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "8a730caa-75ae-4645-bc0f-62f6795c6781",
+    "wordType": "verb",
+    "germanWord": "teilnehmen an + D",
+    "hungarianMeaning": "részt venni valamiben",
+    "exampleSentence": "",
+    "other": "nimmt teil, h. teilgenommen",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "cf6e177f-fe9b-4361-91f3-cb398b46bbd9",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Moor",
+    "hungarianMeaning": "mocsár",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "6b9d1169-caab-44e4-8c69-8bc1b7862c5c",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Erholung",
+    "hungarianMeaning": "pihenés",
+    "exampleSentence": "",
+    "other": "Erholungen",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "6b622cf1-867c-4d4a-a329-004cd696ad3e",
+    "wordType": "verb",
+    "germanWord": "s. erholen",
+    "hungarianMeaning": "kipiheni magát",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "24044a7d-b4a9-4b06-b3cf-fe8e5fac0f7b",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Vieh",
+    "hungarianMeaning": "haszonállat",
+    "exampleSentence": "Als Vieh haben wir 15 Milchkühe.",
+    "other": "",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "048cf51a-31d2-474a-bff8-814498f79244",
+    "wordType": "verb",
+    "germanWord": "s. ernähren",
+    "hungarianMeaning": "táplálkozni",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "3293444a-9428-4f5d-9114-16dbc095596e",
+    "wordType": "verb",
+    "germanWord": "erhalten",
+    "hungarianMeaning": "megőrizni, megtartani / kapni",
+    "exampleSentence": "die Heidelandschaf erhalten - megőrizni a pusztaságot\neinen Brief erhalten - kapni egy levelet",
+    "other": "(ä), erhielt, i. erhalten",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "baadf8f0-3b45-4218-b604-7d4a235e3d40",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Hülle",
+    "hungarianMeaning": "tok (pl. telefontok)",
+    "exampleSentence": "",
+    "other": "Hüllen",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "d640dd7c-5d8a-4e80-8c96-fb26a1bb5fa7",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Verein",
+    "hungarianMeaning": "egyesület",
+    "exampleSentence": "",
+    "other": "Vereine",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "0688a30c-8529-4680-9184-03e050b61e59",
+    "wordType": "verb",
+    "germanWord": "gehören zu + D",
+    "hungarianMeaning": "tartozik valamihez",
+    "exampleSentence": "Ich gehöre zu einem Verein.",
+    "other": "gehörte, h. gehört",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "f414d999-77d4-4fdf-8b44-116e2a0a0156",
+    "wordType": "verb",
+    "germanWord": "gehören + D",
+    "hungarianMeaning": "tulajdona, valakié",
+    "exampleSentence": "Das Auto gehört mir.",
+    "other": "gehörte, h. gehört",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "0feb9635-eb37-4d40-acd4-ca736e4eb3e5",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Tunesien",
+    "hungarianMeaning": "Tunézia",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "c1a53852-8f64-4e73-9765-11db5bc05a4b",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Ägypten",
+    "hungarianMeaning": "Egyiptom",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "8e5b6189-8099-4025-8577-25d97a81a2f1",
+    "wordType": "other",
+    "germanWord": "selbst",
+    "hungarianMeaning": "saját",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "81521514-38dd-4e8e-84b2-c8b72807bea4",
+    "wordType": "other",
+    "germanWord": "einzige",
+    "hungarianMeaning": "egyetlen",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "4d44637d-91d5-4ecd-8187-4754777fbee5",
+    "wordType": "other",
+    "germanWord": "abgelegen",
+    "hungarianMeaning": "távoli, félreeső",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "ebb09bee-7369-4958-8255-0b2fac4ee892",
+    "wordType": "verb",
+    "germanWord": "unternehmen",
+    "hungarianMeaning": "megtesz (machen szinonimája)",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "ed68c88d-6ae2-4313-8154-f3f2b5699758",
+    "wordType": "verb",
+    "germanWord": "erweitern",
+    "hungarianMeaning": "bővíteni, pl. tudást",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "4813097d-4aea-446d-ac81-171fb1a97c61",
+    "wordType": "verb",
+    "germanWord": "bevorzugen",
+    "hungarianMeaning": "előnyben részesít",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "3504ab82-3cf6-42c4-8fd5-5df02e5688d7",
+    "wordType": "other",
+    "germanWord": "haben gefahren / geflogen",
+    "hungarianMeaning": "utazni, repülni, ha én vezetek",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "44ff01a9-1bb6-4ffc-a621-24bae7cee4f8",
+    "wordType": "other",
+    "germanWord": "sind gefahren/ geflogen",
+    "hungarianMeaning": "utazni, repülni ha nem én vezetek",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "01d37e0d-bd88-4d28-ac62-bca44f6766e3",
+    "wordType": "verb",
+    "germanWord": "wählen",
+    "hungarianMeaning": "választ",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "9f5ce8e5-83f7-44e1-b95e-150f18565bd7",
+    "wordType": "verb",
+    "germanWord": "fliegen",
+    "hungarianMeaning": "repülni",
+    "exampleSentence": "",
+    "other": "flog, i. geflogen",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "8c911896-cdf6-4147-aa87-f3e1ccf767e2",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Vatikan",
+    "hungarianMeaning": "Vatikán",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "b272c548-3c76-4175-9c0d-1b1bfcb8d05b",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Irak",
+    "hungarianMeaning": "Irak",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "268cb052-3a31-4daa-a528-8deb221230a2",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Iran",
+    "hungarianMeaning": "Irán",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "8e082487-0e62-47c7-a712-ca7438d88093",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Schweiz",
+    "hungarianMeaning": "Svájc",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "a16e0c29-a4f9-4ec5-baf3-69d6ac18fe6d",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Turkei",
+    "hungarianMeaning": "Törökország",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "ab69639a-5b26-4da9-b55d-01e69ddda3fc",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Slovakei",
+    "hungarianMeaning": "Szlovákia",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "c0949d73-8814-46ad-91df-646fd8540804",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Tschechei",
+    "hungarianMeaning": "Csehország",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "10f438ab-7d25-4f7f-bf16-239217bfe0e8",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Minderheit",
+    "hungarianMeaning": "kisebbség",
+    "exampleSentence": "",
+    "other": "Minderheiten",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "92a789eb-e561-49ea-be22-5001048ea907",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Mehrheit",
+    "hungarianMeaning": "többség",
+    "exampleSentence": "",
+    "other": "Mehrheiten",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "b11df8e3-ff1e-4a5f-8a97-eb53723fae8d",
+    "wordType": "other",
+    "germanWord": "geschlossen",
+    "hungarianMeaning": "zárva van",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "533b3b16-45a1-43c1-80a9-a6fc00541d9a",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Kinderkrippe",
+    "hungarianMeaning": "bölcsőde",
+    "exampleSentence": "",
+    "other": "Kinderkrippen",
+    "date": "2026-09-23"
+  },
+  {
     "id": "c71cddb7-23b9-43aa-8e4e-496025de45af",
     "wordType": "other",
     "germanWord": "abgelegen / entlegen",

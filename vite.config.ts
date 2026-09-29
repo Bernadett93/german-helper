@@ -12,6 +12,10 @@ const apiProxy = {
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  server: { proxy: apiProxy },
+  server: {
+    proxy: apiProxy,
+    // The API writes vocabulary data here; watching it would trigger a full page reload on every save.
+    watch: { ignored: ['**/data/**'] },
+  },
   preview: { proxy: apiProxy },
 })
