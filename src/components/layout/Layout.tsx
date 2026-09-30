@@ -1,7 +1,22 @@
 import { Loader2, ServerCrash } from 'lucide-react'
-import { Outlet } from 'react-router-dom'
+import { useEffect } from 'react'
+import { Outlet, useLocation } from 'react-router-dom'
 import { useVocabulary } from '../../hooks/useVocabulary'
 import { Sidebar } from './Sidebar'
+
+function usePageTitle() {
+  const { pathname } = useLocation()
+
+  useEffect(() => {
+    let pageName = 'Dashboard'
+    if (pathname === '/vocabulary') pageName = 'Vocabulary'
+    if (pathname === '/vocabulary/new') pageName = 'Add word'
+    if (pathname === '/practice') pageName = 'Practice'
+    if (pathname.startsWith('/vocabulary/') && pathname.endsWith('/edit')) pageName = 'Edit word'
+
+    document.title = `${pageName} | German Helper`
+  }, [pathname])
+}
 
 function PageContent() {
   const { status, error, reload } = useVocabulary()
@@ -35,6 +50,8 @@ function PageContent() {
 }
 
 export function Layout() {
+  usePageTitle()
+
   return (
     <div className="flex h-full">
       <Sidebar />

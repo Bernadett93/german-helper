@@ -6,6 +6,7 @@ import { PageHeader } from '../components/ui/PageHeader'
 import { useVocabulary } from '../hooks/useVocabulary'
 import { formatDate } from '../lib/date'
 import { getLessonDates } from '../lib/lessons'
+import { WORD_TYPE_META } from '../lib/wordTypes'
 import type { Vocabulary } from '../types/vocabulary'
 
 type Direction = 'german-to-hungarian' | 'hungarian-to-german'
@@ -266,6 +267,12 @@ export function PracticePage() {
                   <div className="mt-8 rounded-xl bg-indigo-50 px-5 py-4">
                     <p className="text-xs font-semibold uppercase tracking-wide text-indigo-500">Answer</p>
                     <p className="mt-1 text-xl font-semibold text-indigo-950">{answer}</p>
+                    {currentWord?.other && (
+                      <p className="mt-2 text-sm text-indigo-800">
+                        <span className="font-medium">{WORD_TYPE_META[currentWord.wordType].otherLabel}:</span>{' '}
+                        {currentWord.other}
+                      </p>
+                    )}
                   </div>
                 ) : (
                   <button
