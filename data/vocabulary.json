@@ -1,5 +1,298 @@
 [
   {
+    "id": "bc113620-c406-4c52-86b5-a8dce02a994d",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Aufenthalt",
+    "hungarianMeaning": "tartózkodás",
+    "exampleSentence": "",
+    "other": "Aufenthalte",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "20eccc30-58fb-45e8-bb25-ca7960c31f1c",
+    "wordType": "other",
+    "germanWord": "in Fußnähe",
+    "hungarianMeaning": "gyalogosan elérhető távolságban",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "d53e76ef-be2c-4a2d-b15c-b3b2f24222c5",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Heidekraut",
+    "hungarianMeaning": "hanga",
+    "exampleSentence": "",
+    "other": "Heidekräuter",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "e7549286-eb3e-46e6-96a0-5ca4cd61f9de",
+    "wordType": "other",
+    "germanWord": "Es ist eine Reise wert",
+    "hungarianMeaning": "Megéri az utazást",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "681e7f9a-fe43-4a30-988d-b55dc3d34f39",
+    "wordType": "other",
+    "germanWord": "beeindruckend",
+    "hungarianMeaning": "hatásos, nagyhatású",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "ba09fe7b-9b07-4e16-af87-921e76b432ab",
+    "wordType": "other",
+    "germanWord": "Wie wär's (wäre es) wenn",
+    "hungarianMeaning": "Mi lenne ha",
+    "exampleSentence": "Wie wär's wenn wir uns treffen. Mi lenne ha találkoznánk.",
+    "other": "",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "e55f55fe-190a-4b66-acca-57e1bda521e2",
+    "wordType": "verb",
+    "germanWord": "ankommen + D",
+    "hungarianMeaning": "megérkezni",
+    "exampleSentence": "Wir sind gestern im Hotel angekommen. --> nem ins Hotel mert Dativ",
+    "other": "",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "588b2ff4-9ba6-422c-915a-0544e6c0d2b5",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Vogelart",
+    "hungarianMeaning": "madárfaj",
+    "exampleSentence": "",
+    "other": "Vogelarten",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "3c563ac5-ed18-43b6-8d8a-b6f8d2c0b67b",
+    "wordType": "other",
+    "germanWord": "selten",
+    "hungarianMeaning": "ritka",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "9090bc12-1f3d-4397-9359-bf04b0ccafdd",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Gebiet",
+    "hungarianMeaning": "terület",
+    "exampleSentence": "",
+    "other": "Gebiete",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "13688e09-d556-4ff3-bef8-a005d7327884",
+    "wordType": "other",
+    "germanWord": "zur Verfügung stellen",
+    "hungarianMeaning": "rendelkezésre bocsájt",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "82bad664-6ab9-47b1-9b12-962b272a9c60",
+    "wordType": "other",
+    "germanWord": "zur Verfügung stehen",
+    "hungarianMeaning": "rendelkezésre áll",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "637a0196-8b98-4097-a946-38ef33882ddc",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Landschaft",
+    "hungarianMeaning": "táj",
+    "exampleSentence": "",
+    "other": "Landschaften",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "bff5624d-84aa-4496-8ef9-050a6abec792",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Heide",
+    "hungarianMeaning": "pusztaság",
+    "exampleSentence": "",
+    "other": "Heiden",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "eeb0d6b7-c65f-41ee-a49a-6ff5d40ebd98",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Fläche",
+    "hungarianMeaning": "felszín, terület",
+    "exampleSentence": "",
+    "other": "Flächen",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "4207e5c5-7482-42e7-901e-886c3d703b16",
+    "wordType": "verb",
+    "germanWord": "s. ereignen",
+    "hungarianMeaning": "történik valami",
+    "exampleSentence": "Es ereignet sich viel. (sok minden történik)",
+    "other": "",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "d876c48a-9fa3-477b-a4f1-412758b9a61e",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Erlebnis",
+    "hungarianMeaning": "élmény",
+    "exampleSentence": "",
+    "other": "Erlebnisse",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "785fabca-5888-4c6f-9526-7bef3fd8f71e",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Ereignis",
+    "hungarianMeaning": "esemény",
+    "exampleSentence": "",
+    "other": "Ereignisse",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "bc343165-a416-4e2c-890a-a8b83904f451",
+    "wordType": "verb",
+    "germanWord": "erkunden",
+    "hungarianMeaning": "felfedez, felderít",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "4b44964d-1ed8-4af9-87b5-dfe9dc4f6e35",
+    "wordType": "verb",
+    "germanWord": "s. leisten",
+    "hungarianMeaning": "megengedheti magának",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "9feabe84-7d34-4a23-9fb4-4850d3ccfa0a",
+    "wordType": "verb",
+    "germanWord": "begehren",
+    "hungarianMeaning": "kíván, óhajt",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "0bead451-ff51-4ff0-9e4d-a75cd0748a80",
+    "wordType": "verb",
+    "germanWord": "verwöhnen",
+    "hungarianMeaning": "elkényeztet",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "f618ee0e-3425-4570-8aec-e72e923d534c",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Betrieb",
+    "hungarianMeaning": "üzemeltetés, működés",
+    "exampleSentence": "",
+    "other": "Betriebe",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "64935c73-dc67-4600-9521-857a335dce3f",
+    "wordType": "verb",
+    "germanWord": "betreiben",
+    "hungarianMeaning": "működtet",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "e40ec37a-2164-4ed7-b040-bce60b53d18a",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Herde",
+    "hungarianMeaning": "csorda, nyáj",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "04aba374-0fe7-42b8-b0ff-6a76abcc0a08",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Bauernhof",
+    "hungarianMeaning": "tanya",
+    "exampleSentence": "",
+    "other": "Bauernhöfe",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "a17c0873-c483-400c-bd3f-1fa121e2e6f5",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Ausflug",
+    "hungarianMeaning": "kirándulás",
+    "exampleSentence": "",
+    "other": "Ausflüge",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
+    "id": "d179ef10-b0b7-4a81-8b97-b09aebdb816a",
+    "wordType": "verb",
+    "germanWord": "interviewen",
+    "hungarianMeaning": "interjúztatni",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-09-30",
+    "learned": false
+  },
+  {
     "id": "cdd6a73c-ccaf-4b65-8c83-2feffe2c22ec",
     "wordType": "verb",
     "germanWord": "umgehen mit + D",
@@ -7,7 +300,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "74b523c4-3e9a-4d50-b1a2-67116a6514e8",
@@ -17,7 +310,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "574bffeb-76ac-4257-a0c8-f8d78455d613",
@@ -27,7 +320,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "5c249b5a-f53f-404e-bfa0-cebf81feeaac",
@@ -37,7 +330,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "82d8aece-3cef-49de-b987-4fed0926de04",
@@ -67,7 +360,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "6918af49-5f34-4c6f-bb02-9f4882997dad",
@@ -78,7 +371,7 @@
     "exampleSentence": "",
     "other": "Einträge",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "48a8a0d8-b9e4-44cd-bead-1108fd521230",
@@ -88,7 +381,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "44522d75-84a6-4d0a-b506-1ed1fa620dd8",
@@ -98,7 +391,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "957bfc28-9d6c-49c6-bcbb-700c63ebde82",
@@ -109,7 +402,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "3152b13d-ba3a-41f5-b588-ae6edbe28af0",
@@ -120,7 +413,7 @@
     "exampleSentence": "",
     "other": "Deckenlichter",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "fe047c4c-7123-4535-995b-dfee522774ca",
@@ -130,7 +423,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "599772d7-5abe-4945-9f53-e7ed1f7f2d9d",
@@ -140,7 +433,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "98639ac1-98a1-41a7-94c1-0ded27303a64",
@@ -150,7 +443,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "a32ad414-922b-4712-b2d5-0057ba9ab4dd",
@@ -161,7 +454,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "84d6e5f1-fcae-4348-9201-5a5d04871644",
@@ -171,7 +464,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "ad097ae5-e7d7-4865-a4e0-a8aa667f3264",
@@ -181,7 +474,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "0bb08a9c-33c5-4336-812f-3de686a6f089",
@@ -202,7 +495,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "8d3ceb77-fede-461f-b1d4-331ba1472afd",
@@ -212,7 +505,7 @@
     "exampleSentence": "",
     "other": "(bricht auf) brach auf, h. aufgebrochen",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "4e21dcec-219d-45d7-bf92-18c25eb8dc19",
@@ -223,7 +516,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "8a384f99-b066-4ded-a7cb-f501a1ea604f",
@@ -233,7 +526,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "801c497d-38cc-46b1-a665-f1db021a0aa1",
@@ -243,7 +536,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "d60766d7-577d-43ad-9bcf-397d57ae92d6",
@@ -254,7 +547,7 @@
     "exampleSentence": "",
     "other": "Rücksichten",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "4d5961ff-8aab-4d9e-9176-362ff97ba19e",
@@ -264,7 +557,7 @@
     "exampleSentence": "Ein leichter Hüttenschlafsack reicht aus.\nEgy könnyű hálózsákbetét is elegendő.",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "214d8238-2d9a-4e8a-ba05-2a0c06935562",
@@ -275,7 +568,7 @@
     "exampleSentence": "",
     "other": "Wolldecken",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "be053a68-edb9-4c00-830e-280f280b724c",
@@ -285,7 +578,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "432c0d6a-0196-407d-af38-0bd3d15e9180",
@@ -296,7 +589,7 @@
     "exampleSentence": "",
     "other": "Wirte",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "9b44d73e-df97-40e3-a2ed-9349e1c374fd",
@@ -307,7 +600,7 @@
     "exampleSentence": "",
     "other": "Imbisse",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "1b797ae6-9792-4a08-b83a-29e8ace8460f",
@@ -317,7 +610,7 @@
     "exampleSentence": "",
     "other": "untersagte, h. untersagt",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "39668f2b-4ff5-4247-aac6-7fb525de1970",
@@ -328,7 +621,7 @@
     "exampleSentence": "",
     "other": "Rucksäcke",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "d4f2b597-77a6-4f14-81b5-9220b79ea386",
@@ -339,7 +632,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "5b87e048-c498-44a2-87e2-f8b742dd74ec",
@@ -350,7 +643,7 @@
     "exampleSentence": "",
     "other": "Belohnungen",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "4baa1f07-d176-4782-862e-b43da287babf",
@@ -360,7 +653,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "c53359ba-f6d0-4d9d-9101-ba61095f43e2",
@@ -370,7 +663,7 @@
     "exampleSentence": "",
     "other": "(wird los), wurde los, i. losgeworden",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "56ce5e5a-995c-476f-bada-5af1916a3ef5",
@@ -391,7 +684,7 @@
     "exampleSentence": "",
     "other": "Kunstschätze",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "5991af01-1c12-4ea9-93f0-4f5a24a76cda",
@@ -402,7 +695,7 @@
     "exampleSentence": "",
     "other": "Denkmäler",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "1ee16835-d992-4c81-baf7-e40f49a459da",
@@ -412,7 +705,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "0c550b5f-3145-4907-86e0-e455640975dd",
@@ -423,7 +716,7 @@
     "exampleSentence": "",
     "other": "Raketen",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "9011b64e-2063-49e6-978d-99e7e59bf296",
@@ -434,7 +727,7 @@
     "exampleSentence": "",
     "other": "Krawatten",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "d255ab8f-ff88-46ea-8b51-2bbc5ea0d588",
@@ -444,7 +737,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "281d2211-945b-404b-88c0-f9fc78e34383",
@@ -454,7 +747,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "d21bcc7b-ca6c-469c-9def-092dd129ecbb",
@@ -464,7 +757,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "a3e0ec57-e4d0-4504-97b7-0607d303ac8f",
@@ -475,7 +768,7 @@
     "exampleSentence": "",
     "other": "Muffel",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "90362504-5b86-41cf-ab87-b5e1223f4e30",
@@ -486,7 +779,7 @@
     "exampleSentence": "",
     "other": "Faschinge",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "43bdcf89-9800-4018-a629-51920e60c171",
@@ -496,7 +789,7 @@
     "exampleSentence": "",
     "other": "floh, i. geflohen",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "21e9f2ce-7c12-4676-a025-3d425e616429",
@@ -506,7 +799,7 @@
     "exampleSentence": "Die Veranstaltung findet in Budapest statt.",
     "other": "fand statt, h. stattgefunden",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "8a730caa-75ae-4645-bc0f-62f6795c6781",
@@ -1648,7 +1941,7 @@
   {
     "id": "5a350abb-8f45-484b-b9e3-fa095cfece4e",
     "wordType": "noun",
-    "article": "der",
+    "article": "das",
     "germanWord": "Schaf",
     "hungarianMeaning": "juh, birka",
     "exampleSentence": "",
