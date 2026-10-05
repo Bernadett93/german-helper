@@ -1,5 +1,26 @@
 [
   {
+    "id": "1b45f096-c0f1-40c5-b1bb-498cc8cad2a1",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Überwachung",
+    "hungarianMeaning": "felügyelet, ellenőrzés, monitorozás",
+    "exampleSentence": "",
+    "other": "Überwachungen",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "9a734773-ce4b-48fd-9ae0-6b630c0a847e",
+    "wordType": "verb",
+    "germanWord": "abstimmen",
+    "hungarianMeaning": "egyeztet",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
     "id": "9c0630b4-3bd5-479d-93ac-305d9c364a94",
     "wordType": "verb",
     "germanWord": "verlangen",
