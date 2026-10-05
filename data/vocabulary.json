@@ -1,5 +1,331 @@
 [
   {
+    "id": "9c0630b4-3bd5-479d-93ac-305d9c364a94",
+    "wordType": "verb",
+    "germanWord": "verlangen",
+    "hungarianMeaning": "kér, követel",
+    "exampleSentence": "Für sein Verhalten kannst du ruhing eine Erklärung verlangen. = Természetesen követelhetsz magyarázatot a viselkedésére.",
+    "other": "",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "e6a0234a-f8ba-4bdb-8b14-f671be6cec0c",
+    "wordType": "other",
+    "germanWord": "rücksichtsvoll",
+    "hungarianMeaning": "tapintatos, kíméletes, figyelmes",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "63bbcd88-af12-4ec7-9179-e1185eeeaef2",
+    "wordType": "other",
+    "germanWord": "unheimlich",
+    "hungarianMeaning": "szörnyű, félelmetes",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "d5dc3d1a-56e0-4bce-b46e-af544bababe6",
+    "wordType": "other",
+    "germanWord": "sinnvoll",
+    "hungarianMeaning": "van értelme, ésszerű",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "e732a631-89ed-4297-95aa-ffcfebbabb85",
+    "wordType": "other",
+    "germanWord": "wesentlich",
+    "hungarianMeaning": "lényeges(en), jelentős(en)",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "e8d51504-310a-4c64-aaf1-8a1a3489cd4d",
+    "wordType": "other",
+    "germanWord": "dauernd",
+    "hungarianMeaning": "állandóan, folyton",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "fc87f309-7946-40a6-a942-0cbd1b69865b",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Resultat",
+    "hungarianMeaning": "eredmény, következmény",
+    "exampleSentence": "",
+    "other": "Resultate",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "2f55a584-b6a0-486f-9a87-4e816f78fb93",
+    "wordType": "other",
+    "germanWord": "ein Resultat bekannt geben",
+    "hungarianMeaning": "eredményhirdetés",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "bb1f8602-4301-4eba-b0cf-e323b2d18eb2",
+    "wordType": "verb",
+    "germanWord": "sammeln",
+    "hungarianMeaning": "gyűjteni",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "91d5d7a3-0759-4007-97e9-0f09b6699a3e",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Lebewesen",
+    "hungarianMeaning": "élőlény",
+    "exampleSentence": "",
+    "other": "Lebewesen",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "18321b74-784f-4b81-bd02-a560ca81ba7e",
+    "wordType": "verb",
+    "germanWord": "übertreiben",
+    "hungarianMeaning": "túloz, eltúloz",
+    "exampleSentence": "",
+    "other": "übertrieb, h. übertrieben",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "12725cfc-0365-4d6a-8d7f-de78f9528dc5",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Fähigkeit",
+    "hungarianMeaning": "képesség",
+    "exampleSentence": "",
+    "other": "Fähigkeiten",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "85317a4c-e75c-4687-9522-a418b6b7d00e",
+    "wordType": "verb",
+    "germanWord": "wegwerfen",
+    "hungarianMeaning": "eldob (pl. szemetet)",
+    "exampleSentence": "",
+    "other": "(wirft weg) warf weg, h. weggeworfen",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "bcb3f930-6d4b-4022-9a45-88900b792a0b",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Mülleimer",
+    "hungarianMeaning": "kuka, szemetes",
+    "exampleSentence": "",
+    "other": "Mülleimer",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "3fc6a765-c5cd-40b6-8f32-ab5d763e910f",
+    "wordType": "other",
+    "germanWord": "sich an die Regeln halten",
+    "hungarianMeaning": "követni, betartani a szabályokat",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "4d86ce5b-969c-4d6f-a440-e743527d8928",
+    "wordType": "verb",
+    "germanWord": "der Umweltschützer",
+    "hungarianMeaning": "környezetvédő",
+    "exampleSentence": "",
+    "other": "Umweltschützer",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "55366938-b262-4d88-8284-47c441d4c29e",
+    "wordType": "verb",
+    "germanWord": "zerstören",
+    "hungarianMeaning": "tönkretesz",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "64e6b566-ea4e-450b-8dc4-6b3b28639ad2",
+    "wordType": "verb",
+    "germanWord": "bremsen",
+    "hungarianMeaning": "fékez",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "a829aa74-96f8-4664-a02a-66682d9f1d56",
+    "wordType": "other",
+    "germanWord": "schonend fahren",
+    "hungarianMeaning": "kíméletesen utazni / közlekedni",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "9757a2b6-5fe7-41c0-b17a-88af8be2b217",
+    "wordType": "other",
+    "germanWord": "der Ärger",
+    "hungarianMeaning": "bosszúság",
+    "exampleSentence": "",
+    "other": "Ärger",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "f3b492e8-204a-4e16-bf07-52aa41a7fc26",
+    "wordType": "other",
+    "germanWord": "ständig",
+    "hungarianMeaning": "állandóan",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "4e48e3c6-1d68-488c-b245-904e21e6ea17",
+    "wordType": "other",
+    "germanWord": "WG",
+    "hungarianMeaning": "lakóközösség",
+    "exampleSentence": "",
+    "other": "Wohngemeinschaft",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "da63fe9f-1af0-468b-b23d-f86ddd1a2f8b",
+    "wordType": "verb",
+    "germanWord": "vermeiden",
+    "hungarianMeaning": "elkerülni",
+    "exampleSentence": "",
+    "other": "vermied, h. vermieden",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "70d0eab8-bc5b-4e20-abad-e5be362a9d9c",
+    "wordType": "other",
+    "germanWord": "sauer",
+    "hungarianMeaning": "savanyú",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "2feea005-182a-4135-b2a6-a754ecd32de6",
+    "wordType": "verb",
+    "germanWord": "beitragen zu D",
+    "hungarianMeaning": "hozzájárul valamihez",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "855804c4-1889-41e7-ad96-24e40fea850a",
+    "wordType": "verb",
+    "germanWord": "erfüllen",
+    "hungarianMeaning": "teljesít",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "646eb7ac-f0ec-4571-8cf0-75c832aec7df",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Strecke",
+    "hungarianMeaning": "szakasz, útvonal",
+    "exampleSentence": "Informieren Sie sich über geeignete Strecken. = Tájékozódjon a megfelelő útvonalakról (pl. biciklivel).",
+    "other": "Strecken",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "74c03188-88f3-4fcf-87d1-142b5ba7ec20",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Werkzeug",
+    "hungarianMeaning": "szerszám",
+    "exampleSentence": "",
+    "other": "Werkzeug",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "a3253402-6196-4973-b696-4eb9b9fb39b1",
+    "wordType": "other",
+    "germanWord": "nass",
+    "hungarianMeaning": "nedves, vizes",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "74921557-e49d-471f-8e76-40d6018f2d71",
+    "wordType": "other",
+    "germanWord": "neblig",
+    "hungarianMeaning": "ködös",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "bffcc64d-818d-4c91-9861-7b09f7add648",
+    "wordType": "other",
+    "germanWord": "wahnsinnig",
+    "hungarianMeaning": "őrületes, őrült",
+    "exampleSentence": "wahnsinnig steil = őrületesen meredek",
+    "other": "",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "05fc31c0-ab30-4fc9-8e0d-77d6172bfb06",
+    "wordType": "other",
+    "germanWord": "umsonst",
+    "hungarianMeaning": "ingyenes",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
     "id": "bc113620-c406-4c52-86b5-a8dce02a994d",
     "wordType": "noun",
     "article": "der",
