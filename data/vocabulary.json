@@ -1,5 +1,344 @@
 [
   {
+    "id": "50f800a6-be65-4400-b62c-2ca78ee7a267",
+    "wordType": "other",
+    "germanWord": "Geheimnisse lüften",
+    "hungarianMeaning": "titkokat kiszellőztetni",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "895e306f-1162-4cda-b3e4-c2b6746f6306",
+    "wordType": "verb",
+    "germanWord": "ausbeuten",
+    "hungarianMeaning": "kizsákmányol, kifoszt, kihasznál",
+    "exampleSentence": "",
+    "other": "beutete aus, h. ausgebeutet",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "4f1a37b7-057e-4eee-bea6-e6aa519a3aa1",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Ausbeutung",
+    "hungarianMeaning": "kizsákmányolás",
+    "exampleSentence": "",
+    "other": "Ausbeutungen",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "f1fa3e52-51b7-43cf-8aac-86e09d0b759c",
+    "wordType": "other",
+    "germanWord": "am allerschlimmsten",
+    "hungarianMeaning": "a legrosszabb",
+    "exampleSentence": "Am allerschlimmsten finde ich, wenn Mountainbike-Rennen mit mehreren hundert Teilnehmen stattfinden.\nAmit abszolút szörnyűnek találok, azok azok, amikor több száz résztvevővel rendeznek hegyikerékpáros versenyeket.",
+    "other": "",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "7b3ad947-0f8b-49de-b90b-9d301e325b66",
+    "wordType": "verb",
+    "germanWord": "ablehnen",
+    "hungarianMeaning": "elutasít",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "e57dd6c4-62e4-47f2-afc2-aa853f24cbdc",
+    "wordType": "verb",
+    "germanWord": "schaden + D",
+    "hungarianMeaning": "ártani valakinek",
+    "exampleSentence": "Schadet ger Gesundheit = árt az egészségnek\nSchadet der Natur = árt a természetnek",
+    "other": "",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "2a98078f-c7c2-4083-9914-c563160ca80f",
+    "wordType": "other",
+    "germanWord": "undenkbar",
+    "hungarianMeaning": "elképzelhetetlen",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "fbf17fbf-5ff4-4e98-b6bb-1c5bd54ea1df",
+    "wordType": "other",
+    "germanWord": "Wert legen auf",
+    "hungarianMeaning": "hangsúlyt fektet",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "58f751d6-728e-4344-86ee-e9b4691859b6",
+    "wordType": "verb",
+    "germanWord": "pendeln",
+    "hungarianMeaning": "ingázik",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "d2939d55-29b7-493e-924b-90df281a134b",
+    "wordType": "other",
+    "germanWord": "still",
+    "hungarianMeaning": "csendes",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "59890136-c27d-4818-89b3-8ff745d8f25a",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Vorschrift",
+    "hungarianMeaning": "előírás, szabály",
+    "exampleSentence": "",
+    "other": "Vorschriften",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "9b5d64c2-3b27-4921-b2de-23fe4a170492",
+    "wordType": "verb",
+    "germanWord": "achtgeben",
+    "hungarianMeaning": "figyel, vigyáz, ügyel",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "b4bc84be-23ff-4189-8a4a-470c869ff8e4",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Vernunft",
+    "hungarianMeaning": "értelem",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "278a2e1a-00ec-41bd-86d7-5dab39b6de88",
+    "wordType": "verb",
+    "germanWord": "gelingen",
+    "hungarianMeaning": "sikerül",
+    "exampleSentence": "",
+    "other": "gelang, i. gelungen",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "a83faf7f-5342-450f-8f90-46dcf9a5f0ca",
+    "wordType": "verb",
+    "germanWord": "misslingen",
+    "hungarianMeaning": "félresikerül",
+    "exampleSentence": "",
+    "other": "misslang, i. misslungen",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "c107b8d3-8ae0-4a2b-9606-6422e942104a",
+    "wordType": "verb",
+    "germanWord": "schiefgehen",
+    "hungarianMeaning": "feélresikerül, rosszul sül el",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "e8759cfe-6fa7-4775-9879-f82ed93bb2b5",
+    "wordType": "other",
+    "germanWord": "vernünftig",
+    "hungarianMeaning": "ésszerű",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "ea542717-1c7a-47d0-ae73-5686d739dcc5",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Schild",
+    "hungarianMeaning": "tábla",
+    "exampleSentence": "",
+    "other": "Schilder",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "f7820569-156c-4827-b597-957359400d52",
+    "wordType": "verb",
+    "germanWord": "sich verbessern",
+    "hungarianMeaning": "javul",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "7ae8c1a8-ad53-4891-ab45-3577a2209109",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Luftqualität",
+    "hungarianMeaning": "levegőminőság",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "48353424-1a70-452c-b600-84ec877f7680",
+    "wordType": "other",
+    "germanWord": "umweltschädlich",
+    "hungarianMeaning": "környezetre káros",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "6af9833b-ba2c-4ab7-998f-2b19928eaa9d",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Flughafen",
+    "hungarianMeaning": "repülőtér",
+    "exampleSentence": "",
+    "other": "Flughäfen",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "7661db7e-902e-4433-958b-ddb066881ed6",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Zypern",
+    "hungarianMeaning": "Ciprus",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "66b62c62-7bba-4c71-afae-d59c921dcfdc",
+    "wordType": "verb",
+    "germanWord": "prahlen",
+    "hungarianMeaning": "dicsekszik",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "8e4cdb03-04b9-4488-9a1c-54cd18f39001",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Erwartung",
+    "hungarianMeaning": "elvárás",
+    "exampleSentence": "",
+    "other": "Erwartungen",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "537384f7-8868-4c04-a3d3-a3305d9c7053",
+    "wordType": "verb",
+    "germanWord": "entdecken",
+    "hungarianMeaning": "felfedez",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "7339bbaf-acb0-4552-bad7-b51ea4cc7c12",
+    "wordType": "verb",
+    "germanWord": "schimmern",
+    "hungarianMeaning": "csillog, szillámlik",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "661975d2-9c54-4bec-a197-9bedbd157ecf",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Stadtbesichtigung",
+    "hungarianMeaning": "városnézés",
+    "exampleSentence": "",
+    "other": "Stadtbesichtigungen",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "d173d9d2-9e51-4215-a56f-2e1047087ba2",
+    "wordType": "verb",
+    "germanWord": "besteigen",
+    "hungarianMeaning": "felmászik, megmászik",
+    "exampleSentence": "",
+    "other": "bestieg, h. bestiegen",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "7af69c6a-bdd1-443e-ad85-d17bc7d96ba0",
+    "wordType": "verb",
+    "germanWord": "sich begeistern für + A",
+    "hungarianMeaning": "lelkesedik valamiért",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "5cbe2408-8c82-4117-b329-1347efabc6a0",
+    "wordType": "verb",
+    "germanWord": "begeistern",
+    "hungarianMeaning": "rajong, lelkesít",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "8de01640-5084-45ac-bfd3-510480360430",
+    "wordType": "other",
+    "germanWord": "erinnerungsschwer",
+    "hungarianMeaning": "emlékezetes",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
+    "id": "b5aab522-2206-40fd-9860-eecb8fd8c18a",
+    "wordType": "other",
+    "germanWord": "merkwürdig",
+    "hungarianMeaning": "furcsa, különös",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-07",
+    "learned": false
+  },
+  {
     "id": "8e5a2cdd-aa73-4331-be1f-e0054105c5be",
     "wordType": "noun",
     "article": "die",
