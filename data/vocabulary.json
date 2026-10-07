@@ -1,5 +1,112 @@
 [
   {
+    "id": "8e5a2cdd-aa73-4331-be1f-e0054105c5be",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Vorschrift",
+    "hungarianMeaning": "előírás, szabály",
+    "exampleSentence": "",
+    "other": "Vorschriften",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "7ebaaf28-10cf-4195-9324-571d18a0481c",
+    "wordType": "verb",
+    "germanWord": "gestattet",
+    "hungarianMeaning": "engedélyezett",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-05",
+    "learned": true
+  },
+  {
+    "id": "73a9e0fd-357c-4e41-b1e1-26600f06cc09",
+    "wordType": "verb",
+    "germanWord": "statten",
+    "hungarianMeaning": "engedélyez",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-05",
+    "learned": true
+  },
+  {
+    "id": "b9c802df-3c79-4907-b25b-4b9ff16fddd7",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Geschirr",
+    "hungarianMeaning": "edények (általában mosatlan)",
+    "exampleSentence": "",
+    "other": "Geschirre",
+    "date": "2026-10-05",
+    "learned": true
+  },
+  {
+    "id": "b570d203-ca63-486d-b9f4-28fee2f2e7b4",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Gegenstand",
+    "hungarianMeaning": "tárgy",
+    "exampleSentence": "",
+    "other": "Gegenstande",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "5a963339-e6fe-419d-b9df-65e136651125",
+    "wordType": "verb",
+    "germanWord": "unterbringen",
+    "hungarianMeaning": "elszállásol",
+    "exampleSentence": "",
+    "other": "unterbrachte, untergebracht",
+    "date": "2026-10-05",
+    "learned": true
+  },
+  {
+    "id": "e8476800-a3f9-4e8b-9a96-b44a22ce214b",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Geschlecht",
+    "hungarianMeaning": "nem",
+    "exampleSentence": "",
+    "other": "Geschlechter",
+    "date": "2026-10-05",
+    "learned": true
+  },
+  {
+    "id": "5c019b38-bb37-471b-8fd0-4607121742aa",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Ankunft",
+    "hungarianMeaning": "megérkezés",
+    "exampleSentence": "",
+    "other": "Ankünfte",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
+    "id": "0056c252-73a1-4495-a09e-f58b810cae11",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Aufenthalt",
+    "hungarianMeaning": "tartózkodás valahol",
+    "exampleSentence": "",
+    "other": "Aufenthalte",
+    "date": "2026-10-05",
+    "learned": true
+  },
+  {
+    "id": "62f470b5-f5c1-4232-8550-6b7714b8167d",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Bedürfnis",
+    "hungarianMeaning": "igény",
+    "exampleSentence": "",
+    "other": "Bedürfnisse",
+    "date": "2026-10-05",
+    "learned": false
+  },
+  {
     "id": "1b45f096-c0f1-40c5-b1bb-498cc8cad2a1",
     "wordType": "noun",
     "article": "die",
@@ -28,7 +135,7 @@
     "exampleSentence": "Für sein Verhalten kannst du ruhing eine Erklärung verlangen. = Természetesen követelhetsz magyarázatot a viselkedésére.",
     "other": "",
     "date": "2026-10-05",
-    "learned": false
+    "learned": true
   },
   {
     "id": "e6a0234a-f8ba-4bdb-8b14-f671be6cec0c",
@@ -38,7 +145,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-10-05",
-    "learned": false
+    "learned": true
   },
   {
     "id": "63bbcd88-af12-4ec7-9179-e1185eeeaef2",
@@ -58,7 +165,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-10-05",
-    "learned": false
+    "learned": true
   },
   {
     "id": "e732a631-89ed-4297-95aa-ffcfebbabb85",
@@ -89,7 +196,7 @@
     "exampleSentence": "",
     "other": "Resultate",
     "date": "2026-10-05",
-    "learned": false
+    "learned": true
   },
   {
     "id": "2f55a584-b6a0-486f-9a87-4e816f78fb93",
@@ -99,7 +206,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-10-05",
-    "learned": false
+    "learned": true
   },
   {
     "id": "bb1f8602-4301-4eba-b0cf-e323b2d18eb2",
@@ -109,7 +216,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-10-05",
-    "learned": false
+    "learned": true
   },
   {
     "id": "91d5d7a3-0759-4007-97e9-0f09b6699a3e",
@@ -141,7 +248,7 @@
     "exampleSentence": "",
     "other": "Fähigkeiten",
     "date": "2026-10-05",
-    "learned": false
+    "learned": true
   },
   {
     "id": "85317a4c-e75c-4687-9522-a418b6b7d00e",
@@ -172,7 +279,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-10-05",
-    "learned": false
+    "learned": true
   },
   {
     "id": "4d86ce5b-969c-4d6f-a440-e743527d8928",
@@ -182,7 +289,7 @@
     "exampleSentence": "",
     "other": "Umweltschützer",
     "date": "2026-10-05",
-    "learned": false
+    "learned": true
   },
   {
     "id": "55366938-b262-4d88-8284-47c441d4c29e",
@@ -192,7 +299,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-10-05",
-    "learned": false
+    "learned": true
   },
   {
     "id": "64e6b566-ea4e-450b-8dc4-6b3b28639ad2",
@@ -202,7 +309,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-10-05",
-    "learned": false
+    "learned": true
   },
   {
     "id": "a829aa74-96f8-4664-a02a-66682d9f1d56",
@@ -222,7 +329,7 @@
     "exampleSentence": "",
     "other": "Ärger",
     "date": "2026-10-05",
-    "learned": false
+    "learned": true
   },
   {
     "id": "f3b492e8-204a-4e16-bf07-52aa41a7fc26",
@@ -232,7 +339,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-10-05",
-    "learned": false
+    "learned": true
   },
   {
     "id": "4e48e3c6-1d68-488c-b245-904e21e6ea17",
@@ -242,7 +349,7 @@
     "exampleSentence": "",
     "other": "Wohngemeinschaft",
     "date": "2026-10-05",
-    "learned": false
+    "learned": true
   },
   {
     "id": "da63fe9f-1af0-468b-b23d-f86ddd1a2f8b",
@@ -252,7 +359,7 @@
     "exampleSentence": "",
     "other": "vermied, h. vermieden",
     "date": "2026-10-05",
-    "learned": false
+    "learned": true
   },
   {
     "id": "70d0eab8-bc5b-4e20-abad-e5be362a9d9c",
@@ -262,7 +369,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-10-05",
-    "learned": false
+    "learned": true
   },
   {
     "id": "2feea005-182a-4135-b2a6-a754ecd32de6",
@@ -272,7 +379,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-10-05",
-    "learned": false
+    "learned": true
   },
   {
     "id": "855804c4-1889-41e7-ad96-24e40fea850a",
@@ -282,7 +389,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-10-05",
-    "learned": false
+    "learned": true
   },
   {
     "id": "646eb7ac-f0ec-4571-8cf0-75c832aec7df",
@@ -293,7 +400,7 @@
     "exampleSentence": "Informieren Sie sich über geeignete Strecken. = Tájékozódjon a megfelelő útvonalakról (pl. biciklivel).",
     "other": "Strecken",
     "date": "2026-10-05",
-    "learned": false
+    "learned": true
   },
   {
     "id": "74c03188-88f3-4fcf-87d1-142b5ba7ec20",
@@ -314,7 +421,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-10-05",
-    "learned": false
+    "learned": true
   },
   {
     "id": "74921557-e49d-471f-8e76-40d6018f2d71",
@@ -324,7 +431,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-10-05",
-    "learned": false
+    "learned": true
   },
   {
     "id": "bffcc64d-818d-4c91-9861-7b09f7add648",
@@ -344,7 +451,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-10-05",
-    "learned": false
+    "learned": true
   },
   {
     "id": "bc113620-c406-4c52-86b5-a8dce02a994d",
@@ -355,7 +462,7 @@
     "exampleSentence": "",
     "other": "Aufenthalte",
     "date": "2026-09-30",
-    "learned": false
+    "learned": true
   },
   {
     "id": "20eccc30-58fb-45e8-bb25-ca7960c31f1c",
@@ -627,7 +734,7 @@
     "exampleSentence": "",
     "other": "Ausflüge",
     "date": "2026-09-30",
-    "learned": false
+    "learned": true
   },
   {
     "id": "d179ef10-b0b7-4a81-8b97-b09aebdb816a",
@@ -832,7 +939,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-28",
-    "learned": false
+    "learned": true
   },
   {
     "id": "de4636e4-4806-432c-827e-965dcefff155",
@@ -1188,7 +1295,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-23",
-    "learned": false
+    "learned": true
   },
   {
     "id": "24044a7d-b4a9-4b06-b3cf-fe8e5fac0f7b",
@@ -1251,7 +1358,7 @@
     "exampleSentence": "Ich gehöre zu einem Verein.",
     "other": "gehörte, h. gehört",
     "date": "2026-09-23",
-    "learned": false
+    "learned": true
   },
   {
     "id": "f414d999-77d4-4fdf-8b44-116e2a0a0156",
@@ -1261,7 +1368,7 @@
     "exampleSentence": "Das Auto gehört mir.",
     "other": "gehörte, h. gehört",
     "date": "2026-09-23",
-    "learned": false
+    "learned": true
   },
   {
     "id": "0feb9635-eb37-4d40-acd4-ca736e4eb3e5",
@@ -1363,7 +1470,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-23",
-    "learned": false
+    "learned": true
   },
   {
     "id": "01d37e0d-bd88-4d28-ac62-bca44f6766e3",
@@ -1373,7 +1480,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-23",
-    "learned": false
+    "learned": true
   },
   {
     "id": "9f5ce8e5-83f7-44e1-b95e-150f18565bd7",
@@ -1383,7 +1490,7 @@
     "exampleSentence": "",
     "other": "flog, i. geflogen",
     "date": "2026-09-23",
-    "learned": false
+    "learned": true
   },
   {
     "id": "8c911896-cdf6-4147-aa87-f3e1ccf767e2",
@@ -1427,7 +1534,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-23",
-    "learned": false
+    "learned": true
   },
   {
     "id": "a16e0c29-a4f9-4ec5-baf3-69d6ac18fe6d",
@@ -1460,7 +1567,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-23",
-    "learned": false
+    "learned": true
   },
   {
     "id": "10f438ab-7d25-4f7f-bf16-239217bfe0e8",
@@ -1492,7 +1599,7 @@
     "exampleSentence": "",
     "other": "",
     "date": "2026-09-23",
-    "learned": false
+    "learned": true
   },
   {
     "id": "533b3b16-45a1-43c1-80a9-a6fc00541d9a",
@@ -1650,7 +1757,7 @@
     "exampleSentence": "",
     "other": "umging, i. umgangen",
     "date": "2026-09-21",
-    "learned": false
+    "learned": true
   },
   {
     "id": "a2c90577-e806-49c5-bb68-68adee19a2db",
@@ -1661,7 +1768,7 @@
     "exampleSentence": "",
     "other": "Reiseführer",
     "date": "2026-09-21",
-    "learned": false
+    "learned": true
   },
   {
     "id": "e272ce05-e4ae-40c2-a3c1-9d4c7aa44752",
@@ -1672,7 +1779,7 @@
     "exampleSentence": "",
     "other": "Reiseleiter",
     "date": "2026-09-21",
-    "learned": false
+    "learned": true
   },
   {
     "id": "cbb0c30b-9fd0-4c45-b3d0-9f7cc46d33b1",
@@ -1852,7 +1959,7 @@
     "exampleSentence": "Cluburlaub ist gut für Familien geeignet, da im Hotel oft auch ein Betreuungsprogramm für Kinder angeboten wird.",
     "other": "Cluburlaube",
     "date": "2026-09-21",
-    "learned": false
+    "learned": true
   },
   {
     "id": "adc34851-0117-4046-89e0-bd6fff550fe5",
@@ -1863,7 +1970,7 @@
     "exampleSentence": "",
     "other": "Pauschalreisen",
     "date": "2026-09-21",
-    "learned": false
+    "learned": true
   },
   {
     "id": "0cd42685-c21b-4a3d-9c4d-93f6d2d85c94",
@@ -1874,7 +1981,7 @@
     "exampleSentence": "",
     "other": "Dienstreisen",
     "date": "2026-09-21",
-    "learned": false
+    "learned": true
   },
   {
     "id": "836412ce-4f07-459b-9afb-acb0c6c7e668",
@@ -1906,7 +2013,7 @@
     "exampleSentence": "Je länger man berufstätig ist, desto höher ist die Rente.",
     "other": "Renten",
     "date": "2026-09-21",
-    "learned": false
+    "learned": true
   },
   {
     "id": "b5fa282c-599f-4425-80f1-b6946d8566d5",
