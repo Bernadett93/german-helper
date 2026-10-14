@@ -1,5 +1,264 @@
 [
   {
+    "id": "e33156b6-ceee-465e-b57d-a16ef56b6b13",
+    "wordType": "other",
+    "germanWord": "rücksichtslos",
+    "hungarianMeaning": "tapintatlan, figyelmetlen",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
+    "id": "5b63ff4e-7208-489d-a61c-9a6a8e5be8f2",
+    "wordType": "verb",
+    "germanWord": "schmecken",
+    "hungarianMeaning": "ízlik, megízlel, kóstol",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
+    "id": "ad5b08f4-c9f7-457c-bc06-ec353c4cb989",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Geschmack",
+    "hungarianMeaning": "ízlés",
+    "exampleSentence": "",
+    "other": "Geschmäcke",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
+    "id": "05625275-b0fc-4df1-a3d1-c78d504c1c08",
+    "wordType": "verb",
+    "germanWord": "halten von + D",
+    "hungarianMeaning": "tart valamiről valamit (pl gondolat)",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
+    "id": "a628be2d-930f-4af5-8909-eaee1c4966c5",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Rücksichtslosigkeit",
+    "hungarianMeaning": "figyelmetlen, tapintatlan",
+    "exampleSentence": "",
+    "other": "Rücksichtslosigkeiten",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
+    "id": "bab7068f-1d55-4acf-8f3e-de76beaebe61",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Umgang",
+    "hungarianMeaning": "bánásmód (umgehen igéből jön)",
+    "exampleSentence": "",
+    "other": "Umgänge",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
+    "id": "d760867e-ede7-45bc-bcf8-bf0584cd0189",
+    "wordType": "verb",
+    "germanWord": "abonnieren",
+    "hungarianMeaning": "előfizet (pl. újságra)",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
+    "id": "0ff60d26-d000-4d4b-b6a4-4fa518de5940",
+    "wordType": "other",
+    "germanWord": "empfehlenswert",
+    "hungarianMeaning": "említésre érdemes",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
+    "id": "eb80276d-9303-44a9-abde-481da7c54cf1",
+    "wordType": "verb",
+    "germanWord": "versäumen",
+    "hungarianMeaning": "elszalaszt, elmulaszt (lehetőséget)",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
+    "id": "8420ea28-bc4c-4fd7-9a81-34d95a413488",
+    "wordType": "other",
+    "germanWord": "auf dem Lande",
+    "hungarianMeaning": "vidéken",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
+    "id": "4a77ac7e-8f48-4d78-874a-f3957067d813",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Vergnügen",
+    "hungarianMeaning": "szórakozás, mulatság, élvezet",
+    "exampleSentence": "",
+    "other": "Vergnügen",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
+    "id": "03361bf7-b09e-49c9-a7c0-13a14b8f2d21",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Vortrag",
+    "hungarianMeaning": "előadás",
+    "exampleSentence": "",
+    "other": "Vorträge",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
+    "id": "4d15a25d-3cd1-4f42-938b-cc73bc5f4b13",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Aufführung",
+    "hungarianMeaning": "előadás pl. színházi",
+    "exampleSentence": "",
+    "other": "Aufführungen",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
+    "id": "a822b1fd-1c99-4ee9-b2d5-d4233cdab39c",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Vorlesung",
+    "hungarianMeaning": "egyetemi előadás",
+    "exampleSentence": "",
+    "other": "Vorlesungen",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
+    "id": "59af7136-6776-439a-bea6-25299c1b7abe",
+    "wordType": "verb",
+    "germanWord": "drucken",
+    "hungarianMeaning": "nyomtat",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
+    "id": "12084cf1-eda5-4257-b9c3-6a5bff70df1a",
+    "wordType": "verb",
+    "germanWord": "beantragen",
+    "hungarianMeaning": "igényel, kérvényez",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
+    "id": "46bcead3-6e84-492a-a521-b2bb7f57665f",
+    "wordType": "verb",
+    "germanWord": "abheben",
+    "hungarianMeaning": "pénzt kivesz",
+    "exampleSentence": "",
+    "other": "hob ab, h. abgehoben",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
+    "id": "95682656-1faf-4e14-b268-6cedda64bc52",
+    "wordType": "verb",
+    "germanWord": "abbauen",
+    "hungarianMeaning": "leépít, lebont",
+    "exampleSentence": "Die Technik wird angebaut.",
+    "other": "",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
+    "id": "3a6e33f2-921a-4db9-9d78-33545c514898",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Ablauf",
+    "hungarianMeaning": "lefolyása vminek, vminek a folyamata",
+    "exampleSentence": "",
+    "other": "Abläufe",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
+    "id": "297acd11-b422-40fc-b905-2f3e6874f106",
+    "wordType": "other",
+    "germanWord": "verantwortlich für + A",
+    "hungarianMeaning": "felelős valamiért",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
+    "id": "e72ab3af-ebdc-4751-8b41-04d5eff103da",
+    "wordType": "other",
+    "germanWord": "zuständig für + A",
+    "hungarianMeaning": "felelős valamiért",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
+    "id": "8664453d-dc75-4594-82c4-62d22d8004dc",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Vertrag",
+    "hungarianMeaning": "szerződés",
+    "exampleSentence": "",
+    "other": "Verträge",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
+    "id": "51dde146-1e55-4b27-afc8-8875970235d3",
+    "wordType": "verb",
+    "germanWord": "s. beteiligen an + D",
+    "hungarianMeaning": "részt vesz valamiben",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
+    "id": "f20ae8f8-9c38-4ea3-96fd-79baf71bd935",
+    "wordType": "verb",
+    "germanWord": "erwähnen +A",
+    "hungarianMeaning": "megemlít",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
+    "id": "39fe0243-fa24-4901-a931-dc55f2648ee7",
+    "wordType": "verb",
+    "germanWord": "verteilen",
+    "hungarianMeaning": "szétoszt (feladatot, vagy akár lapot is)",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-10-14",
+    "learned": false
+  },
+  {
     "id": "f139cae0-f834-40d0-95e9-978132af268f",
     "wordType": "noun",
     "article": "die",
