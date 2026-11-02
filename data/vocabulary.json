@@ -1,5 +1,128 @@
 [
   {
+    "id": "4a6746a5-1fd1-49cd-83cf-83ff1e49b750",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Auferstehung",
+    "hungarianMeaning": "feltámadás",
+    "exampleSentence": "",
+    "other": "Auferstehungen",
+    "date": "2026-11-02",
+    "learned": false
+  },
+  {
+    "id": "7149ff58-d9ee-4b0b-8746-a9e11eebf44e",
+    "wordType": "verb",
+    "germanWord": "schnitzen",
+    "hungarianMeaning": "farag",
+    "exampleSentence": "Wir schnitzen einen Kürbis für Halloween. = Tökör faragunk Halloweenra.",
+    "other": "",
+    "date": "2026-11-02",
+    "learned": false
+  },
+  {
+    "id": "aeb6b734-59bf-48cb-b07e-be5065374984",
+    "wordType": "other",
+    "germanWord": "gut gelaunt",
+    "hungarianMeaning": "jó kedvű",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-11-02",
+    "learned": false
+  },
+  {
+    "id": "893782bb-cb75-4a39-8e1f-c8b54a2c7572",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Bericht",
+    "hungarianMeaning": "beszámoló, jelentés",
+    "exampleSentence": "",
+    "other": "Berichte",
+    "date": "2026-11-02",
+    "learned": false
+  },
+  {
+    "id": "12f9836f-d1c4-42ed-a26a-02243ce83993",
+    "wordType": "verb",
+    "germanWord": "berichten über + A",
+    "hungarianMeaning": "beszámolni vmiről",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-11-02",
+    "learned": false
+  },
+  {
+    "id": "98376799-0d39-4c0b-9121-4b8c58cafa20",
+    "wordType": "other",
+    "germanWord": "gültig",
+    "hungarianMeaning": "érvényes",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-11-02",
+    "learned": false
+  },
+  {
+    "id": "3c92851e-0735-4ea2-bebf-f3c5d0072e1e",
+    "wordType": "other",
+    "germanWord": "auf dem Fest",
+    "hungarianMeaning": "a fesztiválon",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-11-02",
+    "learned": false
+  },
+  {
+    "id": "86df0b8c-745c-4957-ac13-9ca226b3793f",
+    "wordType": "verb",
+    "germanWord": "gelten als",
+    "hungarianMeaning": "számít vminek (vki pl szakértőnek számít)",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-11-02",
+    "learned": false
+  },
+  {
+    "id": "761fb86e-0e56-4d3e-831e-0959d0b23a1b",
+    "wordType": "verb",
+    "germanWord": "gelten für + A/auf + A",
+    "hungarianMeaning": "érvényes vmire",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-11-02",
+    "learned": false
+  },
+  {
+    "id": "ab98e25d-abec-4a1d-bdc6-06b5c77c9436",
+    "wordType": "verb",
+    "germanWord": "nähen",
+    "hungarianMeaning": "varrni",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-11-02",
+    "learned": false
+  },
+  {
+    "id": "a23393ff-f326-43f1-8a8a-d24efb799065",
+    "wordType": "verb",
+    "germanWord": "erfahren",
+    "hungarianMeaning": "megtudni vmit",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-11-02",
+    "learned": false
+  },
+  {
+    "id": "06e8a41d-6c86-473b-a45a-6cae1b84272a",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Walzer",
+    "hungarianMeaning": "keringő",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-11-02",
+    "learned": false
+  },
+  {
     "id": "9bef785d-3b38-4495-85bb-500b748749a2",
     "wordType": "noun",
     "article": "das",
