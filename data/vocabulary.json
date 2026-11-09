@@ -1,5 +1,151 @@
 [
   {
+    "id": "1c10ae35-7f01-4cad-a19e-3ab0efbd0daf",
+    "wordType": "verb",
+    "germanWord": "verbinden",
+    "hungarianMeaning": "összekapcsol, összeköt",
+    "exampleSentence": "",
+    "other": "verband, h. verbunden",
+    "date": "2026-11-09",
+    "learned": false
+  },
+  {
+    "id": "d95131d1-b0ba-4964-931f-3e3a605dca80",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Buchhandel",
+    "hungarianMeaning": "könyvkereskedelem",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-11-09",
+    "learned": false
+  },
+  {
+    "id": "b28bd0f7-2071-4082-b535-84e533bc3e11",
+    "wordType": "verb",
+    "germanWord": "verleihen",
+    "hungarianMeaning": "adományoz, kölcsönöz",
+    "exampleSentence": "",
+    "other": "verlieh, h. verliehen",
+    "date": "2026-11-09",
+    "learned": false
+  },
+  {
+    "id": "a31c4cea-0cfd-446e-8c18-74be8020ae3d",
+    "wordType": "verb",
+    "germanWord": "loben für A",
+    "hungarianMeaning": "megdicsér",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-11-09",
+    "learned": false
+  },
+  {
+    "id": "9e7c4383-ce10-4042-a0b9-b73df2973c96",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Gegner",
+    "hungarianMeaning": "ellenfél, ellenség",
+    "exampleSentence": "",
+    "other": "Gegner",
+    "date": "2026-11-09",
+    "learned": false
+  },
+  {
+    "id": "55e12a94-085b-44f1-9e85-0b8f8af31c8e",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Macht",
+    "hungarianMeaning": "hatalom",
+    "exampleSentence": "",
+    "other": "Mächte",
+    "date": "2026-11-09",
+    "learned": false
+  },
+  {
+    "id": "ebc4956b-7107-4b62-81bf-68b12f5c9639",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Verlust",
+    "hungarianMeaning": "veszteség",
+    "exampleSentence": "",
+    "other": "Verluste",
+    "date": "2026-11-09",
+    "learned": false
+  },
+  {
+    "id": "821be737-7ff7-4e57-9592-b242ef87feb0",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Gewinn",
+    "hungarianMeaning": "nyereség",
+    "exampleSentence": "",
+    "other": "Gewinne",
+    "date": "2026-11-09",
+    "learned": false
+  },
+  {
+    "id": "b54d5a48-5e28-49e1-8df6-bc9bca6b04b1",
+    "wordType": "other",
+    "germanWord": "geheim halten",
+    "hungarianMeaning": "titkot tartani",
+    "exampleSentence": "",
+    "other": "(hält), hielt, h. gehalten",
+    "date": "2026-11-09",
+    "learned": false
+  },
+  {
+    "id": "713557cf-ca55-445c-b422-f3515cedd6d4",
+    "wordType": "verb",
+    "germanWord": "errichten",
+    "hungarianMeaning": "emel, felállít, létesít, pl. épületet",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-11-09",
+    "learned": false
+  },
+  {
+    "id": "f11367fd-7816-4455-8c97-fce57d10ca40",
+    "wordType": "verb",
+    "germanWord": "stehlen",
+    "hungarianMeaning": "lopni",
+    "exampleSentence": "",
+    "other": "(stiehlt), stahl, h. gestohlen",
+    "date": "2026-11-09",
+    "learned": false
+  },
+  {
+    "id": "882fc0b8-af53-46f3-8708-bca08095a77e",
+    "wordType": "verb",
+    "germanWord": "werfen",
+    "hungarianMeaning": "eldobni",
+    "exampleSentence": "",
+    "other": "warf, h. geworfen",
+    "date": "2026-11-09",
+    "learned": false
+  },
+  {
+    "id": "c07f55e7-f3e3-4742-a4a0-62c1f46ee93e",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Weltmeisterschaft",
+    "hungarianMeaning": "világbajnokság",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-11-09",
+    "learned": false
+  },
+  {
+    "id": "75a26b00-81fd-4477-938d-9496df05dcdf",
+    "wordType": "verb",
+    "germanWord": "ermitteln",
+    "hungarianMeaning": "megtudakolni, kinyomozni",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-11-09",
+    "learned": false
+  },
+  {
     "id": "4a6746a5-1fd1-49cd-83cf-83ff1e49b750",
     "wordType": "noun",
     "article": "die",
