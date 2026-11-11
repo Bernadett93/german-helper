@@ -1,5 +1,216 @@
 [
   {
+    "id": "7f6676e6-8382-474d-af3c-66bb773d4354",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Gerechtigkeit",
+    "hungarianMeaning": "igazság",
+    "exampleSentence": "",
+    "other": "Gerechtigkeiten",
+    "date": "2026-11-11",
+    "learned": false
+  },
+  {
+    "id": "49248863-e535-423e-86d1-348058237164",
+    "wordType": "verb",
+    "germanWord": "fordern",
+    "hungarianMeaning": "követel",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-11-11",
+    "learned": false
+  },
+  {
+    "id": "ed915cc8-7b1c-4acf-a0cf-e71db3eac4c4",
+    "wordType": "verb",
+    "germanWord": "trennen",
+    "hungarianMeaning": "elszakít, elválaszt",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-11-11",
+    "learned": false
+  },
+  {
+    "id": "6a951cba-a8ba-4bb1-bd5d-47c3e5f42a51",
+    "wordType": "verb",
+    "germanWord": "s. trennen",
+    "hungarianMeaning": "különválnak, szakítanak (emberek)",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-11-11",
+    "learned": false
+  },
+  {
+    "id": "961bafd2-8b38-4211-972c-2cd0c78eaa84",
+    "wordType": "verb",
+    "germanWord": "verhindern",
+    "hungarianMeaning": "megakadályoz, meggátol",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-11-11",
+    "learned": false
+  },
+  {
+    "id": "a4e3870c-f264-4a7f-ae9b-cc86d047f95d",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Gewalt",
+    "hungarianMeaning": "erőszak",
+    "exampleSentence": "",
+    "other": "Gewalten",
+    "date": "2026-11-11",
+    "learned": false
+  },
+  {
+    "id": "9b2fe1ba-c658-4f9c-89ae-18507f795ec4",
+    "wordType": "verb",
+    "germanWord": "hervorheben",
+    "hungarianMeaning": "kiemel, kihangsúlyoz",
+    "exampleSentence": "",
+    "other": "hob hervor, h. hervorgehoben",
+    "date": "2026-11-11",
+    "learned": false
+  },
+  {
+    "id": "d8864587-4e96-463c-a8e9-7619d958089a",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Getreideprodukt",
+    "hungarianMeaning": "gabonatermék",
+    "exampleSentence": "",
+    "other": "Getreideprodukte",
+    "date": "2026-11-11",
+    "learned": false
+  },
+  {
+    "id": "8c7de71e-752c-48ab-aeb2-e6a1eace80c5",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Ballaststoff",
+    "hungarianMeaning": "rost (étel)",
+    "exampleSentence": "",
+    "other": "Ballaststoffe",
+    "date": "2026-11-11",
+    "learned": false
+  },
+  {
+    "id": "2eb5179e-3d69-4bf0-b4c9-7893e0bb0377",
+    "wordType": "verb",
+    "germanWord": "zubereiten",
+    "hungarianMeaning": "elkészíteni (ételt)",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-11-11",
+    "learned": false
+  },
+  {
+    "id": "aa4313f6-f176-42e9-89de-499e656b8aeb",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Leiden",
+    "hungarianMeaning": "betegség, szenvedés, baj",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-11-11",
+    "learned": false
+  },
+  {
+    "id": "a317f893-e9ef-4d8f-9269-fa5b7908fae2",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Magenleiden",
+    "hungarianMeaning": "gyomorbaj",
+    "exampleSentence": "",
+    "other": "Magenleiden",
+    "date": "2026-11-11",
+    "learned": false
+  },
+  {
+    "id": "426abc1b-e763-426c-8ed2-22486ddf4533",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Magen",
+    "hungarianMeaning": "gyomor",
+    "exampleSentence": "",
+    "other": "Mägen",
+    "date": "2026-11-11",
+    "learned": false
+  },
+  {
+    "id": "680c1f51-f1fc-4df0-a35b-eedef2c8487c",
+    "wordType": "other",
+    "germanWord": "vollwertig",
+    "hungarianMeaning": "teljes értékű",
+    "exampleSentence": "",
+    "other": "",
+    "date": "2026-11-11",
+    "learned": false
+  },
+  {
+    "id": "0babc8ad-b909-4b8a-85d3-0df41591d809",
+    "wordType": "verb",
+    "germanWord": "erscheinen",
+    "hungarianMeaning": "megjelenik",
+    "exampleSentence": "",
+    "other": "erschien, i. erschienen",
+    "date": "2026-11-11",
+    "learned": false
+  },
+  {
+    "id": "c94ccf4e-4d17-45cf-8f1b-a35340c03a50",
+    "wordType": "noun",
+    "article": "der",
+    "germanWord": "Zuckerspiegel",
+    "hungarianMeaning": "vércukorszázalék",
+    "exampleSentence": "",
+    "other": "Zuckerspiegel",
+    "date": "2026-11-11",
+    "learned": false
+  },
+  {
+    "id": "35e30d4c-b389-4cfc-bae5-87a18d76b266",
+    "wordType": "verb",
+    "germanWord": "beweisen",
+    "hungarianMeaning": "bizonyít, bizonyul",
+    "exampleSentence": "",
+    "other": "bewies, h. bewiesen",
+    "date": "2026-11-11",
+    "learned": false
+  },
+  {
+    "id": "b37b59a3-d5cf-4fee-b0a4-fba06fb25439",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Nährstoff",
+    "hungarianMeaning": "tápláló",
+    "exampleSentence": "",
+    "other": "Nährstoffe",
+    "date": "2026-11-11",
+    "learned": false
+  },
+  {
+    "id": "028c3afb-955f-4e8e-a2c4-929109a96ca7",
+    "wordType": "noun",
+    "article": "die",
+    "germanWord": "Speise",
+    "hungarianMeaning": "étel",
+    "exampleSentence": "",
+    "other": "Speisen",
+    "date": "2026-11-11",
+    "learned": false
+  },
+  {
+    "id": "55de73d4-46ab-41c2-9104-21c71d95bd95",
+    "wordType": "noun",
+    "article": "das",
+    "germanWord": "Gericht",
+    "hungarianMeaning": "étel",
+    "exampleSentence": "",
+    "other": "Gerichte",
+    "date": "2026-11-11",
+    "learned": false
+  },
+  {
     "id": "1c10ae35-7f01-4cad-a19e-3ab0efbd0daf",
     "wordType": "verb",
     "germanWord": "verbinden",
